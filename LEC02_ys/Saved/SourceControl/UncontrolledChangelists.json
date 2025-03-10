@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CW/LWJZWENN0C82KFCRZOEH4V.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NK/2L831UR4LFKGGQA4PHIH00.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WM/01XXF0IZSNDGHPF8915SEM.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OA/P78HOAOQE2WAKDVCRFF11A.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1D/G3P1TBI5Z0JG5ZDXMJHZN7.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IU/BV9AA1BX8SPRQRXVPQ2NNQ.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OI/JLCR1PVLLJDWVSNK9SAGLW.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2C/S8DR9NXT0VD90LYM35XLL2.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/RM/96DSTA4KZ6980KLQUHPEXL.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XB/CV5TRKQY2QCJRBQ2FMVM9G.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XU/7M3D4BXEA0AD94S4A44YYW.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GD/3N858TB2YVX8O8JH7H1XIV.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/25/I9F5EH72TV3478KZ6TLDAR.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/4K/DOQVP8E4G1VZHZEX05AMAW.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/09/V0X32MQZATLOXEK2V3SHFE.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/5D/C1714ABDOXQETA60899UMV.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/5S/WU2ZF7DU29IBRN6G9P9EBY.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/27/OLNHKGDSG9SR8I6P96659B.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JM/452PBQCG5WNA1ZG5D2B1ZO.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WH/1FXP1L5LJVL7R00VA7WS4D.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QT/K9T2ZHSOZBCTO2PCG5U0DZ.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/5P/2GXBC7I3XIJHRQM59IYN4L.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3U/YW9ZH0JSS7GMMLHVFFRQ6Q.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LU/I934M7DDLJNDF6HXZQ5Z94.uasset",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/NewMap.umap",
+				"C:/Users/user/Desktop/ysys/ENGINE01/LEC02_ys/Content/Lec02_ys/BrickHouseMap.umap"
+			]
+		}
+	]
+}
