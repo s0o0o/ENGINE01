@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/lab02/floating.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/65/3UU3ZWPKNS30S6JAUKFW0N.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RV/XDBINEZO0Z6XMXRQJZDCNC.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/Q7/65Y4HMSBX8W2RGGXBZMLIO.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KE/2VO91NT55HCYONUDWHNE1K.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/lab02/elevator.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XX/QCDC62E5OTXX8EQI0NUNRP.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/lab02/explosi.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NA/UCL531RL6R4HD2707EB4DJ.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/5F/97BZLLSSGEF36E53T5MIIM.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YH/RE0AWA9BSGFG7T9NRGKR1S.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NV/GF7FMGPP6ICW7W8Q8P8WFM.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X4/TGGXXCHCIE03KWJSL2A0KM.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RF/LAU8WMI3YAIJBZOLDMLAXU.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6D/CJAEQ251MCJ9F8YUR2DW31.uasset",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/LEC05/factorymap.umap",
+				"C:/Users/user/Desktop/ysys/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset"
+			]
+		}
+	]
+}
