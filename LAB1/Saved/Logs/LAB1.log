@@ -3702,3 +3702,773 @@ Script Stack (0 frames) :
 [2025.03.24-06.09.29:411][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2025.03.24-06.09.29:453][226]LogPlayLevel: Display: Destroying online subsystem :Context_22
 [2025.03.24-06.09.30:267][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.24-06.10.05:522][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2025.03.24-06.10.05:522][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2025.03.24-06.10.05:522][369]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue as actor: StaticMeshActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.StaticMeshActor_21
+[2025.03.24-06.10.06:189][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.24-06.10.06:191][437]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.03.24-06.10.06:195][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2025.03.24-06.10.06:195][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2025.03.24-06.10.06:196][437]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue as actor: StaticMeshActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.StaticMeshActor_25
+[2025.03.24-06.10.19:264][823]LogStreaming: Display: FlushAsyncLoading(725): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-06.10.26:448][495]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-06.10.42:382][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.24-06.10.42:388][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.10.42:469][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.24-06.10.42:485][246]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.10.42:486][246]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920032475432449FBF81D9430F69654FB0591.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.10.42:496][246]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.062
+[2025.03.24-06.10.42:502][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.786 ms (total: 2.91 sec)
+[2025.03.24-06.10.42:529][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.10.42:529][246]LogContentValidation: Enabled validators:
+[2025.03.24-06.10.42:529][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.10.42:529][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.10.42:529][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.10.42:529][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.10.42:529][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.10.42:529][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.10.42:529][246]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.10.57:836][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.24-06.11.09:947][495]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: ================================================
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Total job queries 315, among them cache hits 38 (12.06%), DDC hits 253 (80.32%), Duplicates 6 (1.90%)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Tracking 271 distinct input hashes that result in 231 distinct outputs (85.24%)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: RAM used: 146.32 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Average time worker was idle: 517.85 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.44 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.46
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Shader code size: average 8.157 KiB, min 4.883 KiB, max 12.047 KiB
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.63 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Total thread time: 7.438 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Total thread preprocess time: 4.75 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Percentage time preprocessing: 63.86%
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.79 sec, max 0.82 sec, min 0.77 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.46 sec, max 0.49 sec, min 0.42 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.42 sec, max 0.51 sec, min 0.37 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.33 sec, max 0.36 sec, min 0.31 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.31 sec, max 0.33 sec, min 0.28 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 22.58% of total time (compiled    4 times, average 0.42 sec, max 0.51 sec, min 0.37 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.29% of total time (compiled    2 times, average 0.79 sec, max 0.82 sec, min 0.77 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.38% of total time (compiled    3 times, average 0.46 sec, max 0.49 sec, min 0.42 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.47% of total time (compiled    3 times, average 0.33 sec, max 0.36 sec, min 0.31 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.35% of total time (compiled    3 times, average 0.31 sec, max 0.33 sec, min 0.28 sec)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: === Material stats ===
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Materials Translated:    151
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.03.24-06.11.17:345][245]LogShaderCompilers: Display: ================================================
+[2025.03.24-06.12.41:987][325]LogStreaming: Display: FlushAsyncLoading(727): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-06.12.42:113][326]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy_C
+[2025.03.24-06.12.42:113][326]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy_C
+[2025.03.24-06.12.42:114][326]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy as actor: BP_GoldTrophy_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy_C_1
+[2025.03.24-06.12.42:114][326]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy as actor: BP_GoldTrophy_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy_C_1
+[2025.03.24-06.12.42:246][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.24-06.12.42:247][336]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.03.24-06.12.42:251][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy_C
+[2025.03.24-06.12.42:251][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy_C
+[2025.03.24-06.12.42:253][336]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy as actor: BP_GoldTrophy_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy_C_3
+[2025.03.24-06.12.42:253][336]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy as actor: BP_GoldTrophy_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy_C_3
+[2025.03.24-06.12.43:414][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.24-06.12.43:418][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.12.43:513][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.24-06.12.43:517][439]LogWorldPartition: Error: Duplicated actor descriptor detected:
+	Existing: Guid:5C5C2D226C501330531302A7172B8FBD BaseClass:/Game/LEC03/BP_GoldTrophy.BP_GoldTrophy_C NativeClass:/Script/Engine.StaticMeshActor Name:BP_GoldTrophy_C Label:None SpatiallyLoaded:true EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+	     New: Guid:5C5C2D226C501330531302A7172B8FBD BaseClass:/Game/LEC03/BP_GoldTrophy.BP_GoldTrophy_C NativeClass:/Script/Engine.StaticMeshActor Name:BP_GoldTrophy_C Label:None SpatiallyLoaded:true EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+[2025.03.24-06.12.43:532][439]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.12.43:533][439]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003217408064DBDDB4C89B0ECBAB58F19B9.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.12.43:542][439]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.061
+[2025.03.24-06.12.43:549][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.922 ms (total: 3.04 sec)
+[2025.03.24-06.12.43:594][439]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.12.43:594][439]LogContentValidation: Enabled validators:
+[2025.03.24-06.12.43:594][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.12.43:594][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.12.43:594][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.12.43:594][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.12.43:594][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.12.43:594][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.12.43:594][439]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.13.47:663][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.24-06.13.47:668][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.13.47:778][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.24-06.13.47:795][126]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.13.47:797][126]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920035FA81FF543298F525CB9C792F5B03FF9.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.13.47:807][126]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.079
+[2025.03.24-06.13.47:813][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.161 ms (total: 3.19 sec)
+[2025.03.24-06.13.47:859][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.13.47:859][126]LogContentValidation: Enabled validators:
+[2025.03.24-06.13.47:859][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.13.47:859][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.13.47:859][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.13.47:859][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.13.47:859][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.13.47:859][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.13.47:859][126]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.13.48:797][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.24-06.14.09:621][146]Cmd: DELETE
+[2025.03.24-06.14.09:621][146]Cmd: ACTOR DELETE
+[2025.03.24-06.14.09:642][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.24-06.14.09:663][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.24-06.14.09:667][146]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.03.24-06.14.21:361][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.24-06.14.21:365][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.14.21:440][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.24-06.14.21:457][452]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.14.21:459][452]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003322E52534F75D71762D022A51AAF66ED.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.14.21:468][452]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.060
+[2025.03.24-06.14.21:474][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.019 ms (total: 3.30 sec)
+[2025.03.24-06.14.21:526][452]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.14.21:526][452]LogContentValidation: Enabled validators:
+[2025.03.24-06.14.21:526][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.14.21:526][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.14.21:526][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.14.21:526][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.14.21:526][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.14.21:526][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.14.21:527][452]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.14.41:740][356]Cmd: DELETE
+[2025.03.24-06.14.41:740][356]Cmd: ACTOR DELETE
+[2025.03.24-06.14.41:742][356]LogEditorActor: Deleted Actor: BP_GoldTrophy_C
+[2025.03.24-06.14.41:759][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.24-06.14.41:761][356]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.03.24-06.14.43:767][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.24-06.14.47:002][554]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.24-06.14.57:113][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC03/BP_GoldTrophy.BP_GoldTrophy
+[2025.03.24-06.14.57:115][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.03.24-06.15.05:149][457]LogContentBrowser: Attempting asset rename: BP_GoldTrophy -> BP_GoldTrophy2
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.SKEL_BP_GoldTrophy2_C:ReceiveBeginPlay' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.SKEL_BP_GoldTrophy2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.SKEL_BP_GoldTrophy2_C:ReceiveTick' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.SKEL_BP_GoldTrophy2_C:BndEvt__BP_GoldTrophy_StaticMeshComponent_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.SKEL_BP_GoldTrophy2_C:UserConstructionScript' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.SKEL_BP_GoldTrophy2_C' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C:ReceiveTick' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:263][457]LogMetaData: Removing '/Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C:ReceiveBeginPlay' ref from Metadata '/Game/LEC03/BP_GoldTrophy.PackageMetaData'
+[2025.03.24-06.15.05:282][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.15.05:284][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC03/BP_GoldTrophy2] ([2] browsable assets)...
+[2025.03.24-06.15.05:284][457]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.03.24-06.15.05:325][457]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C]
+[2025.03.24-06.15.05:326][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC03/BP_GoldTrophy2]
+[2025.03.24-06.15.05:326][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC03/BP_GoldTrophy2" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC03/BP_GoldTrophy2.uasset" SILENT=true
+[2025.03.24-06.15.05:334][457]LogSavePackage: Moving output files for package: /Game/LEC03/BP_GoldTrophy2
+[2025.03.24-06.15.05:334][457]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_GoldTrophy2DCD48051453FAC272C9A2C858BF63EBB.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC03/BP_GoldTrophy2.uasset'
+[2025.03.24-06.15.05:340][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC03/BP_GoldTrophy] ([5] browsable assets)...
+[2025.03.24-06.15.05:340][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC03/BP_GoldTrophy]
+[2025.03.24-06.15.05:340][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC03/BP_GoldTrophy" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC03/BP_GoldTrophy.uasset" SILENT=true
+[2025.03.24-06.15.05:341][457]LogSavePackage: Moving output files for package: /Game/LEC03/BP_GoldTrophy
+[2025.03.24-06.15.05:341][457]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_GoldTrophyC14B56CC407619BE0DCB89A2B389317A.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC03/BP_GoldTrophy.uasset'
+[2025.03.24-06.15.05:346][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.135 ms (total: 3.36 sec)
+[2025.03.24-06.15.05:404][457]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.24-06.15.05:404][457]LogContentValidation: Enabled validators:
+[2025.03.24-06.15.05:404][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.15.05:404][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.15.05:404][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.15.05:404][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.15.05:404][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.15.05:404][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.15.05:404][457]AssetCheck: /Game/LEC03/BP_GoldTrophy2 Validating asset
+[2025.03.24-06.15.05:404][457]AssetCheck: /Game/LEC03/BP_GoldTrophy Validating asset
+[2025.03.24-06.15.05:404][457]AssetCheck: /Game/LEC03/BP_GoldTrophy Validating asset
+[2025.03.24-06.15.05:405][457]AssetCheck: /Game/LEC03/BP_GoldTrophy Validating asset
+[2025.03.24-06.15.05:411][457]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.03.24-06.15.06:067][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.24-06.15.06:070][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.15.06:174][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.24-06.15.06:191][525]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.15.06:193][525]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap202319200302873743426350237F7938A3656444AD.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.15.06:201][525]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.079
+[2025.03.24-06.15.06:203][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC06/BP_GoldTrophy] ([2] browsable assets)...
+[2025.03.24-06.15.06:239][525]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC06/BP_GoldTrophy.BP_GoldTrophy]
+[2025.03.24-06.15.06:239][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/BP_GoldTrophy]
+[2025.03.24-06.15.06:239][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/BP_GoldTrophy" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/BP_GoldTrophy.uasset" SILENT=true
+[2025.03.24-06.15.06:245][525]LogSavePackage: Moving output files for package: /Game/LEC06/BP_GoldTrophy
+[2025.03.24-06.15.06:246][525]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_GoldTrophy5F63C2A74E3C5B7BC93722A5F0DCBDFE.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/BP_GoldTrophy.uasset'
+[2025.03.24-06.15.06:254][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.564 ms (total: 3.54 sec)
+[2025.03.24-06.15.06:306][525]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.24-06.15.06:306][525]LogContentValidation: Enabled validators:
+[2025.03.24-06.15.06:306][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.15.06:306][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.15.06:306][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.15.06:306][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.15.06:306][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.15.06:306][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.15.06:306][525]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.15.06:306][525]AssetCheck: /Game/LEC06/BP_GoldTrophy Validating asset
+[2025.03.24-06.15.08:955][822]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.15.08:955][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.15.09:006][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.24-06.15.26:420][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.24-06.15.26:423][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.15.26:523][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.24-06.15.26:541][612]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.15.26:541][612]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920039895BA8346FA4C3F99FC6EB51FFCE5A9.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.15.26:550][612]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.077
+[2025.03.24-06.15.26:556][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.325 ms (total: 3.68 sec)
+[2025.03.24-06.15.26:607][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.15.26:607][612]LogContentValidation: Enabled validators:
+[2025.03.24-06.15.26:607][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.15.26:607][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.15.26:607][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.15.26:607][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.15.26:607][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.15.26:607][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.15.26:607][612]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.15.30:624][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.24-06.15.31:188][100]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C
+[2025.03.24-06.15.31:188][100]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C
+[2025.03.24-06.15.31:189][100]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2 as actor: BP_GoldTrophy2_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy2_C_0
+[2025.03.24-06.15.31:189][100]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2 as actor: BP_GoldTrophy2_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy2_C_0
+[2025.03.24-06.15.31:798][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.24-06.15.31:801][168]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.03.24-06.15.31:803][168]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C
+[2025.03.24-06.15.31:803][168]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2_C
+[2025.03.24-06.15.31:804][168]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2 as actor: BP_GoldTrophy2_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy2_C_1
+[2025.03.24-06.15.31:806][168]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC03/BP_GoldTrophy2.BP_GoldTrophy2 as actor: BP_GoldTrophy2_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_GoldTrophy2_C_1
+[2025.03.24-06.15.34:160][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.24-06.15.34:164][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.15.34:272][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.24-06.15.34:289][430]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.15.34:290][430]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003565EC65C4E7346CA8B490283656C627E.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.15.34:299][430]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.077
+[2025.03.24-06.15.34:308][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.940 ms (total: 3.82 sec)
+[2025.03.24-06.15.34:376][430]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.15.34:377][430]LogContentValidation: Enabled validators:
+[2025.03.24-06.15.34:377][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.15.34:377][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.15.34:377][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.15.34:377][430]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.15.34:377][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.15.34:377][430]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.15.34:377][430]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.15.43:183][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.24-06.15.55:782][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.15.55:790][754]LogPlayLevel: [PlayLevel] Compiling BP_GoldTrophy before play...
+[2025.03.24-06.15.55:810][754]LogPlayLevel: [PlayLevel] Compiling MyBrickHouseMap2023192003 before play...
+[2025.03.24-06.15.55:856][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.24-06.15.55:858][754]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (2 blueprints)
+[2025.03.24-06.15.55:894][754]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.15.55:899][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005434s)
+[2025.03.24-06.15.55:899][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.005479s)
+[2025.03.24-06.15.55:919][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.24-06.15.55:920][754]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.15.55:921][754]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2025.03.24-06.15.55:922][754]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.15.55:922][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.15.55:922][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.15.55:922][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.15.55:923][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.15.55:923][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.15.55:924][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.15.55:955][754]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.15.55:955][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.15.55:955][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.15.55:955][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.15.55:955][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.03.24-06.15.55:956][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.03.24-06.15.55:958][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.03.24-06.15.55:958][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.03.24-06.15.55:958][754]LogInit: FAudioDevice initialized with ID 16.
+[2025.03.24-06.15.55:958][754]LogAudio: Display: Audio Device (ID: 16) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.15.55:958][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.24-06.15.55:963][754]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.15.55:965][754]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.15.55
+[2025.03.24-06.15.55:965][754]LogWorld: Bringing up level for play took: 0.002315
+[2025.03.24-06.15.55:967][754]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.03.24-06.15.55:971][754]PIE: Server logged in
+[2025.03.24-06.15.55:973][754]PIE: Play in editor total start time 0.184 seconds.
+[2025.03.24-06.16.04:344][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.04:344][442]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.04:345][442]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.16.04:345][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.04:355][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.16.04:359][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.04:378][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.04:378][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.24-06.16.04:379][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.24-06.16.04:380][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.24-06.16.04:387][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.03.24-06.16.04:439][443]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.24-06.16.09:491][997]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.16.09:514][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.16.09:515][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.09:519][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004191s)
+[2025.03.24-06.16.09:519][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004219s)
+[2025.03.24-06.16.09:536][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.24-06.16.09:538][997]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.16.09:539][997]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2025.03.24-06.16.09:540][997]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.16.09:540][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.16.09:540][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.16.09:540][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.16.09:540][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.16.09:540][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.16.09:542][997]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.16.09:571][997]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.16.09:571][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.16.09:571][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.16.09:572][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.16.09:572][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.03.24-06.16.09:572][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.03.24-06.16.09:575][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.03.24-06.16.09:575][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.03.24-06.16.09:575][997]LogInit: FAudioDevice initialized with ID 17.
+[2025.03.24-06.16.09:575][997]LogAudio: Display: Audio Device (ID: 17) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.16.09:575][997]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.24-06.16.09:580][997]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.16.09:583][997]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.16.09
+[2025.03.24-06.16.09:583][997]LogWorld: Bringing up level for play took: 0.002563
+[2025.03.24-06.16.09:586][997]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.24-06.16.09:589][997]PIE: Server logged in
+[2025.03.24-06.16.09:590][997]PIE: Play in editor total start time 0.076 seconds.
+[2025.03.24-06.16.12:184][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.12:184][246]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.12:184][246]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.16.12:185][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.12:195][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.16.12:199][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.12:215][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.12:215][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.24-06.16.12:215][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.24-06.16.12:217][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.24-06.16.12:225][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.24-06.16.12:280][247]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.24-06.16.27:687][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.16.27:709][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.16.27:743][942]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.27:748][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004529s)
+[2025.03.24-06.16.27:748][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004559s)
+[2025.03.24-06.16.27:765][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.24-06.16.27:767][942]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.16.27:768][942]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2025.03.24-06.16.27:768][942]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.16.27:768][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.16.27:768][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.16.27:769][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.16.27:769][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.16.27:769][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.16.27:770][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.16.27:800][942]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.16.27:801][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.16.27:801][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.16.27:801][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.16.27:802][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.03.24-06.16.27:802][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.03.24-06.16.27:804][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.03.24-06.16.27:804][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.03.24-06.16.27:804][942]LogInit: FAudioDevice initialized with ID 18.
+[2025.03.24-06.16.27:804][942]LogAudio: Display: Audio Device (ID: 18) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.16.27:804][942]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.24-06.16.27:809][942]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.16.27:812][942]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.16.27
+[2025.03.24-06.16.27:812][942]LogWorld: Bringing up level for play took: 0.002354
+[2025.03.24-06.16.27:814][942]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.03.24-06.16.27:818][942]PIE: Server logged in
+[2025.03.24-06.16.27:819][942]PIE: Play in editor total start time 0.11 seconds.
+[2025.03.24-06.16.32:263][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.32:263][362]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.32:263][362]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.16.32:264][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.32:275][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.16.32:279][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.32:300][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.32:300][362]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.24-06.16.32:300][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.24-06.16.32:302][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.24-06.16.32:311][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.24-06.16.32:365][363]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.03.24-06.16.35:179][663]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.16.35:202][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.16.35:202][663]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.35:207][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004335s)
+[2025.03.24-06.16.35:207][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004361s)
+[2025.03.24-06.16.35:224][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.24-06.16.35:225][663]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.16.35:227][663]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2025.03.24-06.16.35:227][663]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.16.35:227][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.16.35:228][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.16.35:228][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.16.35:228][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.16.35:228][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.16.35:229][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.16.35:258][663]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.16.35:258][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.16.35:258][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.16.35:258][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.16.35:259][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.03.24-06.16.35:259][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.03.24-06.16.35:261][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.03.24-06.16.35:261][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.03.24-06.16.35:261][663]LogInit: FAudioDevice initialized with ID 19.
+[2025.03.24-06.16.35:261][663]LogAudio: Display: Audio Device (ID: 19) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.16.35:262][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.03.24-06.16.35:264][663]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.16.35:266][663]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.16.35
+[2025.03.24-06.16.35:266][663]LogWorld: Bringing up level for play took: 0.002253
+[2025.03.24-06.16.35:269][663]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.03.24-06.16.35:272][663]PIE: Server logged in
+[2025.03.24-06.16.35:273][663]PIE: Play in editor total start time 0.071 seconds.
+[2025.03.24-06.16.45:962][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.45:962][923]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.16.45:963][923]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.16.45:964][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.45:976][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.16.45:979][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.16.45:997][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.16.45:998][923]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.03.24-06.16.45:998][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.24-06.16.45:999][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.24-06.16.46:008][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.24-06.16.46:037][924]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.03.24-06.17.19:216][717]Cmd: DELETE
+[2025.03.24-06.17.19:216][717]Cmd: ACTOR DELETE
+[2025.03.24-06.17.19:219][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:220][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:221][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:221][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:222][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:222][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:223][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:223][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:224][717]LogEditorActor: Deleted Actor: BP_GoldTrophy2_C
+[2025.03.24-06.17.19:242][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.24-06.17.19:245][717]LogEditorActor: Deleted 9 Actors (0.028 secs)
+[2025.03.24-06.17.22:459][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.24-06.17.22:463][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.17.22:554][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.24-06.17.22:569][ 81]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.17.22:570][ 81]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap202319200341407591473DCF5B29BD87AB2B7EAE78.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.17.22:579][ 81]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.078
+[2025.03.24-06.17.22:588][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.817 ms (total: 3.95 sec)
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: Enabled validators:
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.17.22:635][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.17.22:635][ 81]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.17.23:451][155]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.17.23:475][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.17.23:475][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.17.23:479][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003901s)
+[2025.03.24-06.17.23:479][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.003929s)
+[2025.03.24-06.17.23:498][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.24-06.17.23:499][155]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.17.23:500][155]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2025.03.24-06.17.23:500][155]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.17.23:500][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.17.23:500][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.17.23:500][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.17.23:500][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.17.23:500][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.17.23:502][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.17.23:532][155]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.17.23:532][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.17.23:532][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.17.23:532][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.17.23:533][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.03.24-06.17.23:533][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.03.24-06.17.23:535][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.03.24-06.17.23:535][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.03.24-06.17.23:535][155]LogInit: FAudioDevice initialized with ID 20.
+[2025.03.24-06.17.23:535][155]LogAudio: Display: Audio Device (ID: 20) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.17.23:535][155]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.24-06.17.23:537][155]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.17.23:539][155]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.17.23
+[2025.03.24-06.17.23:540][155]LogWorld: Bringing up level for play took: 0.002019
+[2025.03.24-06.17.23:541][155]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.03.24-06.17.23:546][155]PIE: Server logged in
+[2025.03.24-06.17.23:547][155]PIE: Play in editor total start time 0.071 seconds.
+[2025.03.24-06.17.26:681][516]LogScript: Warning: Attempted to access TextRenderActor_1 via property TextRenderActor_1_ExecuteUbergraph_MyBrickHouseMap2023192003_RefProperty, but TextRenderActor_1 is not valid (pending kill or garbage)
+	MyBrickHouseMap2023192003_C /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.MyBrickHouseMap2023192003_C_11
+	Function /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003_C:ExecuteUbergraph_MyBrickHouseMap2023192003:023A
+[2025.03.24-06.17.26:681][516]PIE: Error: Blueprint Runtime Error: "Attempted to access TextRenderActor_1 via property TextRenderActor_1_ExecuteUbergraph_MyBrickHouseMap2023192003_RefProperty, but TextRenderActor_1 is not valid (pending kill or garbage)". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph My Brick House Map 2023192003 Blueprint:  MyBrickHouseMap2023192003
+[2025.03.24-06.17.26:681][516]LogScript: Warning: Accessed None
+	MyBrickHouseMap2023192003_C /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.MyBrickHouseMap2023192003_C_11
+	Function /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003_C:ExecuteUbergraph_MyBrickHouseMap2023192003:024F
+[2025.03.24-06.17.26:681][516]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  SetVisibility Graph:  EventGraph Function:  Execute Ubergraph My Brick House Map 2023192003 Blueprint:  MyBrickHouseMap2023192003
+[2025.03.24-06.17.27:442][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.17.27:442][603]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.17.27:442][603]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.17.27:443][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.17.27:446][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.17.27:451][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.17.27:471][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.24-06.17.27:471][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.24-06.17.27:471][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.24-06.17.27:473][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.24-06.17.27:478][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.17.27:480][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.24-06.17.27:543][603]LogSlate: Took 0.004038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.03.24-06.17.27:591][604]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.03.24-06.17.40:312][ 80]LogSlate: Window 'Message Log' being destroyed
+[2025.03.24-06.17.40:319][ 80]LogSlate: Window 'Message Log' being destroyed
+[2025.03.24-06.17.42:348][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.24-06.17.44:870][586]Cmd: TRANSACTION UNDO
+[2025.03.24-06.17.44:870][586]LogEditorTransaction: Undo Delete Elements
+[2025.03.24-06.17.46:082][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.24-06.17.46:085][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.17.46:189][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.24-06.17.46:207][672]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.17.46:209][672]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap202319200390B4E5B24E1888C9413FABAD5CEB89D8.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.17.46:217][672]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.078
+[2025.03.24-06.17.46:228][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.322 ms (total: 4.09 sec)
+[2025.03.24-06.17.46:289][672]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.17.46:289][672]LogContentValidation: Enabled validators:
+[2025.03.24-06.17.46:289][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.17.46:289][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.17.46:289][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.17.46:289][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.17.46:289][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.17.46:289][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.17.46:289][672]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.17.46:554][702]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.17.46:559][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.17.46:592][702]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.17.46:596][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004274s)
+[2025.03.24-06.17.46:596][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004312s)
+[2025.03.24-06.17.46:615][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.24-06.17.46:616][702]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.17.46:617][702]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2025.03.24-06.17.46:617][702]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.17.46:617][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.17.46:617][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.17.46:618][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.17.46:618][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.17.46:618][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.17.46:619][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.17.46:654][702]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.17.46:654][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.17.46:654][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.17.46:654][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.17.46:655][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.03.24-06.17.46:655][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.03.24-06.17.46:656][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.03.24-06.17.46:656][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.03.24-06.17.46:656][702]LogInit: FAudioDevice initialized with ID 21.
+[2025.03.24-06.17.46:656][702]LogAudio: Display: Audio Device (ID: 21) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.17.46:656][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.24-06.17.46:660][702]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.17.46:662][702]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.17.46
+[2025.03.24-06.17.46:662][702]LogWorld: Bringing up level for play took: 0.002256
+[2025.03.24-06.17.46:664][702]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.03.24-06.17.46:668][702]PIE: Server logged in
+[2025.03.24-06.17.46:669][702]PIE: Play in editor total start time 0.109 seconds.
+[2025.03.24-06.17.47:322][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.17.47:322][763]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.17.47:322][763]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.17.47:323][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.17.47:326][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.17.47:331][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.17.47:351][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.17.47:351][763]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.24-06.17.47:351][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.24-06.17.47:353][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.24-06.17.47:361][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.24-06.17.47:416][764]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.03.24-06.18.18:114][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.18.18:114][863]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.18.18:118][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004300s)
+[2025.03.24-06.18.18:118][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004329s)
+[2025.03.24-06.18.18:135][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.24-06.18.18:136][863]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.18.18:137][863]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2025.03.24-06.18.18:138][863]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.18.18:138][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.18.18:138][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.18.18:138][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.18.18:138][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.18.18:138][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.18.18:140][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.18.18:169][863]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.18.18:169][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.18.18:169][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.18.18:169][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.18.18:170][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.24-06.18.18:171][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.03.24-06.18.18:173][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.24-06.18.18:173][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.24-06.18.18:173][863]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.24-06.18.18:173][863]LogAudio: Display: Audio Device (ID: 22) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.18.18:173][863]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.24-06.18.18:177][863]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.18.18:179][863]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.18.18
+[2025.03.24-06.18.18:179][863]LogWorld: Bringing up level for play took: 0.002159
+[2025.03.24-06.18.18:182][863]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.03.24-06.18.18:184][863]PIE: Server logged in
+[2025.03.24-06.18.18:185][863]PIE: Play in editor total start time 0.071 seconds.
+[2025.03.24-06.18.20:635][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.18.24:111][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.18.24:111][356]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.18.24:112][356]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.18.24:113][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.18.24:131][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.18.24:135][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.18.24:154][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.18.24:155][356]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.24-06.18.24:155][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.24-06.18.24:157][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.24-06.18.24:165][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.24-06.18.24:252][357]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.03.24-06.18.26:961][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.18.26:962][603]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.18.26:966][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004316s)
+[2025.03.24-06.18.26:966][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004345s)
+[2025.03.24-06.18.26:983][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.24-06.18.26:985][603]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.18.26:986][603]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2025.03.24-06.18.26:986][603]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.18.26:986][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.18.26:986][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.18.26:986][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.18.26:986][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.18.26:986][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.18.26:988][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.18.27:017][603]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.18.27:017][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.18.27:017][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.18.27:017][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.18.27:018][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.24-06.18.27:018][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.03.24-06.18.27:020][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.24-06.18.27:020][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.24-06.18.27:020][603]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.24-06.18.27:020][603]LogAudio: Display: Audio Device (ID: 23) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.18.27:020][603]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.24-06.18.27:024][603]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.18.27:028][603]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.18.27
+[2025.03.24-06.18.27:028][603]LogWorld: Bringing up level for play took: 0.002318
+[2025.03.24-06.18.27:029][603]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.03.24-06.18.27:030][603]PIE: Server logged in
+[2025.03.24-06.18.27:032][603]PIE: Play in editor total start time 0.071 seconds.
+[2025.03.24-06.18.28:492][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.18.28:492][709]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.18.28:494][709]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.18.28:494][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.18.28:504][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.18.28:509][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.18.28:523][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.18.28:525][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.24-06.18.28:525][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.24-06.18.28:527][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.24-06.18.28:534][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.24-06.18.28:624][710]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.03.24-06.18.38:772][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.18.38:772][800]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.18.38:777][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004324s)
+[2025.03.24-06.18.38:777][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004352s)
+[2025.03.24-06.18.38:796][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.24-06.18.38:798][800]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.18.38:799][800]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2025.03.24-06.18.38:799][800]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.03.24-06.18.38:799][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.18.38:800][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.18.38:800][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.18.38:800][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.18.38:800][800]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.18.38:800][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.18.38:800][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.18.38:800][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.18.38:800][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.18.38:800][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.18.38:800][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.18.38:801][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.18.38:831][800]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.18.38:831][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.18.38:831][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.18.38:831][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.18.38:832][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.03.24-06.18.38:832][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.03.24-06.18.38:835][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.03.24-06.18.38:835][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.03.24-06.18.38:835][800]LogInit: FAudioDevice initialized with ID 24.
+[2025.03.24-06.18.38:835][800]LogAudio: Display: Audio Device (ID: 24) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.18.38:835][800]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.24-06.18.38:839][800]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.18.38:842][800]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.18.38
+[2025.03.24-06.18.38:842][800]LogWorld: Bringing up level for play took: 0.002418
+[2025.03.24-06.18.38:844][800]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.03.24-06.18.38:845][800]PIE: Server logged in
+[2025.03.24-06.18.38:846][800]PIE: Play in editor total start time 0.075 seconds.
+[2025.03.24-06.18.40:293][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.18.40:293][899]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.18.40:294][899]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.18.40:295][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.18.40:305][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.18.40:308][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.18.40:328][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.18.40:330][899]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.24-06.18.40:330][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.24-06.18.40:332][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.24-06.18.40:340][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.24-06.18.40:431][900]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.03.24-06.18.42:203][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.24-06.18.43:554][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
