@@ -2696,3 +2696,788 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.24-05.49.53:548][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.03.24-05.49.53:550][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2025.03.24-05.49.53:610][492]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.03.24-05.51.22:495][307]Cmd: DELETE
+[2025.03.24-05.51.22:495][307]Cmd: ACTOR DELETE
+[2025.03.24-05.51.22:520][307]LogEditorActor: Actor SM_Chair3 is referenced by MyBrickHouseMap20231920032.
+[2025.03.24-05.52.04:346][307]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.03.24-05.52.04:373][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.24-05.52.04:376][307]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.03.24-05.52.04:456][311]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.03.24-05.52.24:832][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.24-05.52.35:223][919]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:224][919]LogStreaming: Display: ImportPackages: SkipPackage: /Game/LEC06/BP_AutoFence (0x6831670278A8362B) /Game/LEC06/BP_AutoFence (0x6831670278A8362B) - Skipping non mounted imported package /Game/LEC05/SM_Panel (0xF7D0BBBEB124F516)
+[2025.03.24-05.52.35:309][919]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC05/SM_Panel which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.24-05.52.35:309][919]LoadErrors: Warning: While trying to load package /Game/LEC06/BP_AutoFence, a dependent package /Game/LEC05/SM_Panel was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LEC05/SM_Panel has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC05/SM_Panel.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.24-05.52.35:399][927]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:412][927]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_AutoFence.BP_AutoFence_C
+[2025.03.24-05.52.35:412][927]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_AutoFence.BP_AutoFence_C
+[2025.03.24-05.52.35:414][927]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_AutoFence.BP_AutoFence as actor: BP_AutoFence_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_AutoFence_C_0
+[2025.03.24-05.52.35:415][927]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_AutoFence.BP_AutoFence as actor: BP_AutoFence_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_AutoFence_C_0
+[2025.03.24-05.52.35:428][928]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:448][930]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:451][930]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:469][931]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:488][933]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:490][933]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:501][934]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:522][936]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:524][936]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:537][937]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:558][939]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:566][939]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:577][940]LogStreaming: Display: FlushAsyncLoading(609): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:597][942]LogStreaming: Display: FlushAsyncLoading(611): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:605][942]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:621][943]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:639][945]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:643][945]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:655][946]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:675][948]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:677][948]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:690][949]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:710][951]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:715][951]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:726][952]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:747][954]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:749][954]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:761][955]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:782][957]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:786][957]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:798][958]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:819][960]LogStreaming: Display: FlushAsyncLoading(649): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:821][960]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:833][961]LogStreaming: Display: FlushAsyncLoading(653): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:854][963]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:857][963]LogStreaming: Display: FlushAsyncLoading(657): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:868][964]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:889][966]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:890][966]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:901][967]LogStreaming: Display: FlushAsyncLoading(664): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:923][969]LogStreaming: Display: FlushAsyncLoading(667): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:925][969]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:938][970]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:958][972]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:966][973]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:982][975]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.35:990][976]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:008][978]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:016][979]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:032][981]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:043][982]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:063][984]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:066][984]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:077][985]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:100][987]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:101][987]LogStreaming: Display: FlushAsyncLoading(691): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:113][988]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:134][990]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:137][990]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:148][991]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:168][993]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:171][993]LogStreaming: Display: FlushAsyncLoading(703): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:182][994]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:203][996]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:205][996]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:218][997]LogStreaming: Display: FlushAsyncLoading(712): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.36:247][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.24-05.52.36:268][998]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.03.24-05.52.36:272][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_AutoFence.BP_AutoFence_C
+[2025.03.24-05.52.36:272][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/BP_AutoFence.BP_AutoFence_C
+[2025.03.24-05.52.36:277][998]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_AutoFence.BP_AutoFence as actor: BP_AutoFence_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_AutoFence_C_1
+[2025.03.24-05.52.36:278][998]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/BP_AutoFence.BP_AutoFence as actor: BP_AutoFence_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.BP_AutoFence_C_1
+[2025.03.24-05.52.43:340][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC06/BP_AutoFence.BP_AutoFence
+[2025.03.24-05.52.43:340][775]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.24-05.52.43:393][775]LogStreaming: Display: FlushAsyncLoading(715): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.44:655][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.24-05.52.44:658][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.52.44:742][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.24-05.52.44:744][892]LogWorldPartition: Can't find class descriptor '/Game/LEC05/BP_AutoFence.BP_AutoFence_C' for loading '/Game/LEC06/BP_AutoFence.BP_AutoFence_C', using '/Script/Engine.Actor'
+[2025.03.24-05.52.44:753][892]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.52.44:754][892]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920039BE1CA6A49CA75FE46511C8A29BD99D1.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.52.44:763][892]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.052
+[2025.03.24-05.52.44:771][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.665 ms (total: 806.733 ms)
+[2025.03.24-05.52.44:825][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.52.44:825][892]LogContentValidation: Enabled validators:
+[2025.03.24-05.52.44:825][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.52.44:825][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.52.44:825][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.52.44:825][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.52.44:825][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.52.44:825][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.52.44:825][892]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.52.54:408][966]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.52.54:528][966]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC06/SM_Panel.SM_Panel
+[2025.03.24-05.52.54:529][966]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC06/SM_Panel.SM_Panel
+[2025.03.24-05.52.54:529][966]LogActorFactory: Actor Factory spawned StaticMesh /Game/LEC06/SM_Panel.SM_Panel as actor: StaticMeshActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.StaticMeshActor_1
+[2025.03.24-05.52.54:825][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.24-05.52.54:826][990]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.03.24-05.52.54:830][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC06/SM_Panel.SM_Panel
+[2025.03.24-05.52.54:830][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC06/SM_Panel.SM_Panel
+[2025.03.24-05.52.54:831][990]LogActorFactory: Actor Factory spawned StaticMesh /Game/LEC06/SM_Panel.SM_Panel as actor: StaticMeshActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.StaticMeshActor_19
+[2025.03.24-05.53.16:781][236]LogShaderCompilers: Display: ================================================
+[2025.03.24-05.53.16:781][236]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Total job queries 265, among them cache hits 28 (10.57%), DDC hits 226 (85.28%), Duplicates 6 (2.26%)
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Tracking 231 distinct input hashes that result in 199 distinct outputs (86.15%)
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: RAM used: 136.16 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Average time worker was idle: 501.60 s
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.03 s
+[2025.03.24-05.53.16:782][236]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 1.14 s
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.15
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Shader code size: average 7.479 KiB, min 4.883 KiB, max 9.953 KiB
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.10 s
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Average processing rate: 2.39 jobs/sec
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Total thread time: 1.878 s
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Total thread preprocess time: 4.154 s
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Percentage time preprocessing: 221.19%
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Effective parallelization: 0.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.03.24-05.53.16:783][236]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.90% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 20.48% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.16% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.72% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.74% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: === Material stats ===
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: Materials Translated:    149
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.03.24-05.53.16:784][236]LogShaderCompilers: Display: ================================================
+[2025.03.24-05.53.29:459][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.24-05.53.29:462][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.53.29:540][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.24-05.53.29:551][179]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.53.29:552][179]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003FF545DF146B6E29F0EEC63B389988A31.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.53.29:561][179]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.072
+[2025.03.24-05.53.29:568][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.519 ms (total: 912.253 ms)
+[2025.03.24-05.53.29:606][179]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.53.29:606][179]LogContentValidation: Enabled validators:
+[2025.03.24-05.53.29:606][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.53.29:606][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.53.29:606][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.53.29:606][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.53.29:606][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.53.29:606][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.53.29:606][179]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.53.41:134][357]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.24-05.53.41:154][357]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.24-05.53.41:159][357]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.24-05.53.41:169][358]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.24-05.53.45:983][931]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_autofence22
+[2025.03.24-05.53.46:006][931]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.24-05.53.47:146][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.24-05.53.47:149][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.53.47:208][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC06/bp_autofence22] ([2] browsable assets)...
+[2025.03.24-05.53.47:208][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/bp_autofence22]
+[2025.03.24-05.53.47:209][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/bp_autofence22" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset" SILENT=true
+[2025.03.24-05.53.47:210][ 49]LogSavePackage: Moving output files for package: /Game/LEC06/bp_autofence22
+[2025.03.24-05.53.47:210][ 49]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/bp_autofence22D3DAD0874514BF1DDB3042B93517EDFB.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset'
+[2025.03.24-05.53.47:239][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.256 ms (total: 1.00 sec)
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: Enabled validators:
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.53.47:292][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.53.47:292][ 49]AssetCheck: /Game/LEC06/bp_autofence22 Validating asset
+[2025.03.24-05.53.49:454][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC06/bp_autofence22.bp_autofence22
+[2025.03.24-05.53.49:455][297]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.24-05.53.57:161][163]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-05.53.57:161][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-05.53.57:215][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.24-05.54.17:853][915]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.03.24-05.54.17:853][915]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.03.24-05.54.17:853][915]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TextRenderActor_0
+[2025.03.24-05.54.17:854][915]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TextRenderActor_0
+[2025.03.24-05.54.18:991][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.24-05.54.18:992][ 45]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.03.24-05.54.18:996][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.03.24-05.54.18:996][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2025.03.24-05.54.18:999][ 45]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TextRenderActor_1
+[2025.03.24-05.54.18:999][ 45]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TextRenderActor_1
+[2025.03.24-05.55.15:599][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.24-05.55.15:603][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.55.15:687][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.24-05.55.15:698][762]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.55.15:700][762]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003D616D99B42C65CF6E8F7D8B8BFB93352.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.55.15:708][762]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.052
+[2025.03.24-05.55.15:715][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.385 ms (total: 1.11 sec)
+[2025.03.24-05.55.15:773][762]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.55.15:773][762]LogContentValidation: Enabled validators:
+[2025.03.24-05.55.15:773][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.55.15:773][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.55.15:773][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.55.15:773][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.55.15:773][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.55.15:773][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.55.15:773][762]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.55.58:052][619]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.56.04:869][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.24-05.56.04:873][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.56.04:920][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC06/bp_autofence22] ([2] browsable assets)...
+[2025.03.24-05.56.04:920][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/bp_autofence22]
+[2025.03.24-05.56.04:920][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/bp_autofence22" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset" SILENT=true
+[2025.03.24-05.56.04:926][410]LogSavePackage: Moving output files for package: /Game/LEC06/bp_autofence22
+[2025.03.24-05.56.04:950][410]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/bp_autofence22F995A2FD465F7A536DE8DC8D60D54D90.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset'
+[2025.03.24-05.56.04:959][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.248 ms (total: 1.19 sec)
+[2025.03.24-05.56.05:028][410]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.56.05:028][410]LogContentValidation: Enabled validators:
+[2025.03.24-05.56.05:028][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.56.05:028][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.56.05:028][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.56.05:028][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.56.05:028][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.56.05:028][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.56.05:028][410]AssetCheck: /Game/LEC06/bp_autofence22 Validating asset
+[2025.03.24-05.56.07:456][693]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] Could not find a variable named "fence End" in '/Game/LEC06/bp_autofence22.bp_autofence22_C'.
+Make sure '/Game/LEC06/bp_autofence22.bp_autofence22_C' has been compiled for  Get fence End
+[2025.03.24-05.56.07:456][693]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] Could not find a variable named "fenceGrowing" in '/Game/LEC06/bp_autofence22.bp_autofence22_C'.
+Make sure '/Game/LEC06/bp_autofence22.bp_autofence22_C' has been compiled for  Set fenceGrowing
+[2025.03.24-05.56.07:456][693]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] Could not find a variable named "fenceGrowing" in '/Game/LEC06/bp_autofence22.bp_autofence22_C'.
+Make sure '/Game/LEC06/bp_autofence22.bp_autofence22_C' has been compiled for  Get fenceGrowing
+[2025.03.24-05.56.07:456][693]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] Could not find a variable named "panelrotation" in '/Game/LEC06/bp_autofence22.bp_autofence22_C'.
+Make sure '/Game/LEC06/bp_autofence22.bp_autofence22_C' has been compiled for  Set panelrotation
+[2025.03.24-05.56.07:456][693]LogBlueprint: Warning: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] Could not find a variable named "panelrotation" in '/Game/LEC06/bp_autofence22.bp_autofence22_C'.
+Make sure '/Game/LEC06/bp_autofence22.bp_autofence22_C' has been compiled for  Get panelrotation
+[2025.03.24-05.56.07:457][693]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] The property associated with  Panelrotation  could not be found in '/Game/LEC06/bp_autofence22.bp_autofence22_C'
+[2025.03.24-05.56.07:457][693]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] The property associated with  Fence Growing  could not be found in '/Game/LEC06/bp_autofence22.bp_autofence22_C'
+[2025.03.24-05.56.07:457][693]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] The property associated with  Panelrotation  could not be found in '/Game/LEC06/bp_autofence22.bp_autofence22_C'
+[2025.03.24-05.56.07:457][693]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] The property associated with  Fence End  could not be found in '/Game/LEC06/bp_autofence22.bp_autofence22_C'
+[2025.03.24-05.56.07:458][693]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC06\bp_autofence22.uasset: [Compiler] The property associated with  Fence Growing  could not be found in '/Game/LEC06/bp_autofence22.bp_autofence22_C'
+[2025.03.24-05.56.07:460][693]LogStreaming: Display: FlushAsyncLoading(724): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.56.07:493][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.24-05.56.16:783][719]LogShaderCompilers: Display: ================================================
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Total job queries 267, among them cache hits 29 (10.86%), DDC hits 226 (84.64%), Duplicates 6 (2.25%)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 200 distinct outputs (86.21%)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: RAM used: 136.48 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Average time worker was idle: 292.00 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.05 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.32 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 1.37
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Shader code size: average 7.817 KiB, min 4.883 KiB, max 9.953 KiB
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.46 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Average processing rate: 1.73 jobs/sec
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Total thread time: 2.393 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Total thread preprocess time: 4.178 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Percentage time preprocessing: 174.59%
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.45 sec, max 0.51 sec, min 0.38 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 37.60% of total time (compiled    2 times, average 0.45 sec, max 0.51 sec, min 0.38 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.33% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.03% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.90% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.14% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: === Material stats ===
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Materials Translated:    149
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.03.24-05.56.16:784][719]LogShaderCompilers: Display: ================================================
+[2025.03.24-05.56.23:596][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.24-05.56.26:918][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.24-05.56.26:923][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.56.26:967][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC06/bp_autofence22] ([2] browsable assets)...
+[2025.03.24-05.56.26:967][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/bp_autofence22]
+[2025.03.24-05.56.26:967][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/bp_autofence22" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset" SILENT=true
+[2025.03.24-05.56.26:973][836]LogSavePackage: Moving output files for package: /Game/LEC06/bp_autofence22
+[2025.03.24-05.56.26:978][836]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/bp_autofence22EB8D55114F89FFC0E1AB9FA9CDA0BEC6.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset'
+[2025.03.24-05.56.26:986][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.201 ms (total: 1.26 sec)
+[2025.03.24-05.56.27:033][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.56.27:033][836]LogContentValidation: Enabled validators:
+[2025.03.24-05.56.27:033][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.56.27:033][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.56.27:033][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.56.27:033][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.56.27:033][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.56.27:033][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.56.27:033][836]AssetCheck: /Game/LEC06/bp_autofence22 Validating asset
+[2025.03.24-05.56.32:219][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.56.32:219][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.56.32:220][372]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_0
+[2025.03.24-05.56.32:221][372]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_0
+[2025.03.24-05.56.32:584][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.24-05.56.32:586][402]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.03.24-05.56.32:589][402]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.56.32:589][402]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.56.32:590][402]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_1
+[2025.03.24-05.56.32:591][402]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_1
+[2025.03.24-05.56.43:338][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.24-05.56.43:343][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.56.43:436][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.24-05.56.43:447][551]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.56.43:448][551]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920039C3EC9D34CC45FD35E1C8C849C64634F.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.56.43:457][551]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.075
+[2025.03.24-05.56.43:457][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC06/bp_autofence22] ([2] browsable assets)...
+[2025.03.24-05.56.43:457][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/bp_autofence22]
+[2025.03.24-05.56.43:457][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/bp_autofence22" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset" SILENT=true
+[2025.03.24-05.56.43:463][551]LogSavePackage: Moving output files for package: /Game/LEC06/bp_autofence22
+[2025.03.24-05.56.43:465][551]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/bp_autofence221388792045E275891F463EBC7B3BC0EB.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset'
+[2025.03.24-05.56.43:471][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.731 ms (total: 1.39 sec)
+[2025.03.24-05.56.43:535][551]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.24-05.56.43:535][551]LogContentValidation: Enabled validators:
+[2025.03.24-05.56.43:535][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.56.43:535][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.56.43:535][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.56.43:535][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.56.43:535][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.56.43:535][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.56.43:535][551]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.56.43:535][551]AssetCheck: /Game/LEC06/bp_autofence22 Validating asset
+[2025.03.24-05.56.53:943][751]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.03.24-05.56.53:943][751]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.03.24-05.56.53:943][751]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TriggerBox_0
+[2025.03.24-05.56.53:944][751]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TriggerBox_0
+[2025.03.24-05.56.54:761][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.24-05.56.54:762][843]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.03.24-05.56.54:767][843]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.03.24-05.56.54:767][843]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.03.24-05.56.54:768][843]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TriggerBox_1
+[2025.03.24-05.56.54:768][843]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.TriggerBox_1
+[2025.03.24-05.57.18:209][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.24-05.57.18:214][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.57.18:300][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.24-05.57.18:312][364]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.57.18:313][364]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003A26B7BC84B6B646CE852209B9D9A799F.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.57.18:321][364]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.055
+[2025.03.24-05.57.18:321][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC06/bp_autofence22] ([2] browsable assets)...
+[2025.03.24-05.57.18:321][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/bp_autofence22]
+[2025.03.24-05.57.18:321][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/bp_autofence22" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset" SILENT=true
+[2025.03.24-05.57.18:328][364]LogSavePackage: Moving output files for package: /Game/LEC06/bp_autofence22
+[2025.03.24-05.57.18:328][364]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/bp_autofence226656E43B4FC2C5ED86C616BD558061BE.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset'
+[2025.03.24-05.57.18:337][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.823 ms (total: 1.51 sec)
+[2025.03.24-05.57.18:397][364]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.24-05.57.18:397][364]LogContentValidation: Enabled validators:
+[2025.03.24-05.57.18:397][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.57.18:397][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.57.18:397][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.57.18:397][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.57.18:397][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.57.18:397][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.57.18:397][364]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.57.18:397][364]AssetCheck: /Game/LEC06/bp_autofence22 Validating asset
+[2025.03.24-05.57.25:257][ 42]Cmd: DELETE
+[2025.03.24-05.57.25:257][ 42]Cmd: ACTOR DELETE
+[2025.03.24-05.57.25:259][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.24-05.57.25:277][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.24-05.57.25:280][ 42]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.24-05.57.37:675][441]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.57.37:675][441]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.57.37:679][441]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_2
+[2025.03.24-05.57.37:681][441]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_2
+[2025.03.24-05.57.38:329][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.24-05.57.38:331][487]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.03.24-05.57.38:336][487]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.57.38:336][487]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LEC06/bp_autofence22.bp_autofence22_C
+[2025.03.24-05.57.38:340][487]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_3
+[2025.03.24-05.57.38:342][487]LogActorFactory: Actor Factory spawned Blueprint /Game/LEC06/bp_autofence22.bp_autofence22 as actor: bp_autofence22_C /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003:PersistentLevel.bp_autofence22_C_3
+[2025.03.24-05.58.04:918][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.24-05.58.25:947][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.24-05.58.26:734][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.24-05.58.26:737][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.58.26:823][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.24-05.58.26:836][686]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.58.26:837][686]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003EED1D2D249A5EE8A8697B88B89F76F20.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.58.26:845][686]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.067
+[2025.03.24-05.58.26:852][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.607 ms (total: 1.62 sec)
+[2025.03.24-05.58.26:916][686]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.58.26:916][686]LogContentValidation: Enabled validators:
+[2025.03.24-05.58.26:916][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.58.26:916][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.58.26:916][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.58.26:916][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.58.26:916][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.58.26:916][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.58.26:916][686]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.58.27:581][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-05.58.27:605][756]LogPlayLevel: [PlayLevel] Compiling bp_autofence22 before play...
+[2025.03.24-05.58.27:664][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.24-05.58.27:665][756]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2025.03.24-05.58.27:666][756]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-05.58.27:671][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003992s)
+[2025.03.24-05.58.27:671][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004026s)
+[2025.03.24-05.58.27:688][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.24-05.58.27:689][756]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-05.58.27:690][756]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2025.03.24-05.58.27:691][756]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-05.58.27:691][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-05.58.27:691][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-05.58.27:691][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-05.58.27:691][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-05.58.27:691][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-05.58.27:693][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-05.58.27:726][756]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-05.58.27:726][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-05.58.27:726][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-05.58.27:726][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-05.58.27:727][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.03.24-05.58.27:727][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.03.24-05.58.27:729][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.03.24-05.58.27:729][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.03.24-05.58.27:729][756]LogInit: FAudioDevice initialized with ID 9.
+[2025.03.24-05.58.27:729][756]LogAudio: Display: Audio Device (ID: 9) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-05.58.27:729][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.24-05.58.27:731][756]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-05.58.27:733][756]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-14.58.27
+[2025.03.24-05.58.27:733][756]LogWorld: Bringing up level for play took: 0.001967
+[2025.03.24-05.58.27:735][756]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.24-05.58.27:741][756]PIE: Server logged in
+[2025.03.24-05.58.27:741][756]PIE: Play in editor total start time 0.138 seconds.
+[2025.03.24-05.58.30:418][996]LogBlueprintUserMessages: [MyBrickHouseMap2023192003_C_4] Hello
+[2025.03.24-05.58.30:677][ 27]LogBlueprintUserMessages: [MyBrickHouseMap2023192003_C_4] Hello
+[2025.03.24-05.58.32:383][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-05.58.32:383][228]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-05.58.32:383][228]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-05.58.32:384][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-05.58.32:387][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-05.58.32:391][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-05.58.32:410][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-05.58.32:411][228]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.24-05.58.32:411][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.24-05.58.32:413][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.24-05.58.32:419][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.03.24-05.58.32:478][229]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.24-05.58.43:479][492]Cmd: TRANSACTION UNDO
+[2025.03.24-05.58.43:479][492]LogEditorTransaction: Undo Move Elements
+[2025.03.24-05.58.43:746][497]Cmd: TRANSACTION UNDO
+[2025.03.24-05.58.43:746][497]LogEditorTransaction: Undo Move Elements
+[2025.03.24-05.58.51:224][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.24-05.58.51:230][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.58.51:297][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.24-05.58.51:310][312]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.58.51:312][312]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap2023192003CE4AF1C94B7023DCB7276DA1C0DC749A.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.58.51:320][312]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.060
+[2025.03.24-05.58.51:328][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.362 ms (total: 1.72 sec)
+[2025.03.24-05.58.51:361][312]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.58.51:361][312]LogContentValidation: Enabled validators:
+[2025.03.24-05.58.51:361][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.58.51:361][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.58.51:361][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.58.51:361][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.58.51:361][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.58.51:361][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.58.51:362][312]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.59.14:041][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.24-05.59.14:045][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.59.14:132][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.24-05.59.14:145][868]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-05.59.14:146][868]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920034D17EE5748099C6C8F284F9A5BDDCBDF.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-05.59.14:155][868]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.076
+[2025.03.24-05.59.14:160][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.295 ms (total: 1.84 sec)
+[2025.03.24-05.59.14:194][868]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.59.14:194][868]LogContentValidation: Enabled validators:
+[2025.03.24-05.59.14:194][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.59.14:194][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.59.14:194][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.59.14:194][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.59.14:194][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.59.14:194][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.59.14:194][868]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-05.59.39:894][671]LogEditorTransaction: Undo Add Node
+[2025.03.24-06.00.37:638][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.24-06.00.37:643][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.00.37:741][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.24-06.00.37:755][920]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.00.37:756][920]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920037498BF63446BC9C506B318B5C378E35F.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.00.37:766][920]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.076
+[2025.03.24-06.00.37:772][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.130 ms (total: 1.97 sec)
+[2025.03.24-06.00.37:835][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.00.37:835][920]LogContentValidation: Enabled validators:
+[2025.03.24-06.00.37:835][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.00.37:835][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.00.37:835][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.00.37:835][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.00.37:835][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.00.37:835][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.00.37:835][920]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.00.39:377][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.24-06.01.55:772][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.24-06.01.55:778][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.01.55:871][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.24-06.01.55:886][421]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.01.55:887][421]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap202319200325ABD93E4D95B04ABCA88FA633EA3B69.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.01.55:896][421]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.058
+[2025.03.24-06.01.55:902][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.744 ms (total: 2.09 sec)
+[2025.03.24-06.01.55:958][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.01.55:958][421]LogContentValidation: Enabled validators:
+[2025.03.24-06.01.55:958][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.01.55:958][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.01.55:958][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.01.55:958][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.01.55:958][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.01.55:958][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.01.55:960][421]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.01.56:697][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.24-06.02.00:997][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.02.01:021][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.02.01:021][942]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.02.01:025][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004331s)
+[2025.03.24-06.02.01:025][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.004360s)
+[2025.03.24-06.02.01:044][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.24-06.02.01:045][942]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.02.01:046][942]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2025.03.24-06.02.01:048][942]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.02.01:048][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.02.01:048][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.02.01:048][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.02.01:048][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.02.01:048][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.02.01:050][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.02.01:081][942]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.02.01:081][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.02.01:081][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.02.01:081][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.02.01:083][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.24-06.02.01:083][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.24-06.02.01:084][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.24-06.02.01:084][942]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.24-06.02.01:084][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.24-06.02.01:084][942]LogAudio: Display: Audio Device (ID: 10) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.02.01:084][942]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.24-06.02.01:086][942]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.02.01:089][942]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.02.01
+[2025.03.24-06.02.01:089][942]LogWorld: Bringing up level for play took: 0.002193
+[2025.03.24-06.02.01:091][942]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.03.24-06.02.01:095][942]PIE: Server logged in
+[2025.03.24-06.02.01:096][942]PIE: Play in editor total start time 0.075 seconds.
+[2025.03.24-06.02.07:248][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.02.07:248][663]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.02.07:248][663]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.02.07:249][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.02.07:252][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.02.07:256][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.02.07:272][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.02.07:274][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.24-06.02.07:274][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.24-06.02.07:275][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.24-06.02.07:281][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.24-06.02.07:341][664]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.03.24-06.02.09:322][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.24-06.03.40:446][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.24-06.03.40:452][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.03.40:555][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.24-06.03.40:570][209]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.03.40:571][209]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920031A192634443658DF3A110D92794AEF09.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.03.40:581][209]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.079
+[2025.03.24-06.03.40:586][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.808 ms (total: 2.22 sec)
+[2025.03.24-06.03.40:650][209]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.03.40:650][209]LogContentValidation: Enabled validators:
+[2025.03.24-06.03.40:650][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.03.40:650][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.03.40:650][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.03.40:650][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.03.40:650][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.03.40:650][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.03.40:650][209]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.03.41:984][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.24-06.03.44:712][577]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.03.44:735][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.03.44:766][577]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.03.44:772][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005571s)
+[2025.03.24-06.03.44:772][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.005617s)
+[2025.03.24-06.03.44:792][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.24-06.03.44:794][577]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.03.44:795][577]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2025.03.24-06.03.44:795][577]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.03.44:795][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.03.44:795][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.03.44:795][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.03.44:795][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.03.44:795][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.03.44:799][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.03.44:833][577]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.03.44:833][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.03.44:833][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.03.44:833][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.03.44:835][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.24-06.03.44:835][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.24-06.03.44:837][577]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.24-06.03.44:837][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.24-06.03.44:837][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.24-06.03.44:837][577]LogAudio: Display: Audio Device (ID: 11) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.03.44:837][577]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.24-06.03.44:839][577]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.03.44:841][577]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.03.44
+[2025.03.24-06.03.44:842][577]LogWorld: Bringing up level for play took: 0.002185
+[2025.03.24-06.03.44:844][577]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.03.24-06.03.44:847][577]PIE: Server logged in
+[2025.03.24-06.03.44:848][577]PIE: Play in editor total start time 0.113 seconds.
+[2025.03.24-06.03.53:656][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.03.53:656][611]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.03.53:656][611]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.03.53:657][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.03.53:660][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.03.53:663][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.03.53:682][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.03.53:684][611]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.24-06.03.53:684][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.24-06.03.53:685][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.24-06.03.53:691][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.24-06.03.53:736][612]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.03.24-06.04.10:596][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.24-06.04.10:600][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.04.10:698][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.24-06.04.10:712][537]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.04.10:713][537]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920034ECB51344C6D4DD52EFEA68515A9F3D7.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.04.10:722][537]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.075
+[2025.03.24-06.04.10:733][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.382 ms (total: 2.36 sec)
+[2025.03.24-06.04.10:781][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.04.10:781][537]LogContentValidation: Enabled validators:
+[2025.03.24-06.04.10:781][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.04.10:781][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.04.10:781][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.04.10:781][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.04.10:781][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.04.10:781][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.04.10:782][537]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.04.23:407][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.24-06.04.23:412][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.04.23:469][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC06/bp_autofence22] ([2] browsable assets)...
+[2025.03.24-06.04.23:469][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC06/bp_autofence22]
+[2025.03.24-06.04.23:469][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC06/bp_autofence22" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset" SILENT=true
+[2025.03.24-06.04.23:476][956]LogSavePackage: Moving output files for package: /Game/LEC06/bp_autofence22
+[2025.03.24-06.04.23:477][956]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/bp_autofence22D85ADCC84164F288E5AB7CA197581678.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC06/bp_autofence22.uasset'
+[2025.03.24-06.04.23:486][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.416 ms (total: 2.43 sec)
+[2025.03.24-06.04.23:550][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.04.23:550][956]LogContentValidation: Enabled validators:
+[2025.03.24-06.04.23:550][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.04.23:550][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.04.23:550][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.04.23:550][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.04.23:550][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.04.23:550][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.04.23:550][956]AssetCheck: /Game/LEC06/bp_autofence22 Validating asset
+[2025.03.24-06.04.23:968][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.24-06.04.29:974][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.24-06.04.29:979][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.04.30:065][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.24-06.04.30:080][614]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.04.30:081][614]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap20231920038B78B4B34E133D8CD6C7F383AA13919B.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.04.30:091][614]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.061
+[2025.03.24-06.04.30:100][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.927 ms (total: 2.55 sec)
+[2025.03.24-06.04.30:148][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.04.30:148][614]LogContentValidation: Enabled validators:
+[2025.03.24-06.04.30:148][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.04.30:148][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.04.30:148][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.04.30:148][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.04.30:148][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.04.30:148][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.04.30:148][614]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.04.32:766][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-06.04.32:779][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-06.04.32:816][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.04.32:821][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005488s)
+[2025.03.24-06.04.32:821][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 to /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 (0.005540s)
+[2025.03.24-06.04.32:843][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.24-06.04.32:844][910]LogChaosDD: Creating Chaos Debug Draw Scene for world MyBrickHouseMap2023192003
+[2025.03.24-06.04.32:845][910]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2025.03.24-06.04.32:846][910]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-06.04.32:846][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-06.04.32:846][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-06.04.32:846][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-06.04.32:846][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-06.04.32:846][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-06.04.32:848][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-06.04.32:879][910]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-06.04.32:880][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-06.04.32:880][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-06.04.32:880][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-06.04.32:881][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.24-06.04.32:881][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.24-06.04.32:883][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.24-06.04.32:883][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.24-06.04.32:883][910]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.24-06.04.32:883][910]LogAudio: Display: Audio Device (ID: 12) registered with world 'MyBrickHouseMap2023192003'.
+[2025.03.24-06.04.32:883][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.24-06.04.32:885][910]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-06.04.32:887][910]LogWorld: Bringing World /Game/UEDPIE_0_MyBrickHouseMap2023192003.MyBrickHouseMap2023192003 up for play (max tick rate 0) at 2025.03.24-15.04.32
+[2025.03.24-06.04.32:888][910]LogWorld: Bringing up level for play took: 0.002392
+[2025.03.24-06.04.32:890][910]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.03.24-06.04.32:894][910]PIE: Server logged in
+[2025.03.24-06.04.32:895][910]PIE: Play in editor total start time 0.122 seconds.
+[2025.03.24-06.04.39:962][742]LogBlueprintUserMessages: [BP_Elevator_C_0] ENTER
+[2025.03.24-06.04.40:904][855]LogBlueprintUserMessages: [BP_Elevator_C_0] LEAVE
+[2025.03.24-06.04.51:075][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.04.51:075][ 70]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MyBrickHouseMap2023192003
+[2025.03.24-06.04.51:076][ 70]LogWorld: UWorld::CleanupWorld for MyBrickHouseMap2023192003, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-06.04.51:076][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.04.51:081][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-06.04.51:084][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-06.04.51:102][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-06.04.51:102][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.24-06.04.51:102][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.24-06.04.51:105][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.24-06.04.51:113][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.24-06.04.51:154][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.03.24-06.05.22:388][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.24-06.06.30:224][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.24-06.06.30:229][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-06.06.30:312][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.24-06.06.30:328][278]LogSavePackage: Moving output files for package: /Game/MyBrickHouseMap2023192003
+[2025.03.24-06.06.30:329][278]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/MyBrickHouseMap202319200354529E8142F9C05AC23053BE111EA9C7.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/MyBrickHouseMap2023192003.umap'
+[2025.03.24-06.06.30:338][278]LogFileHelpers: Saving map 'MyBrickHouseMap2023192003' took 0.060
+[2025.03.24-06.06.30:345][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.469 ms (total: 2.67 sec)
+[2025.03.24-06.06.30:392][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-06.06.30:392][278]LogContentValidation: Enabled validators:
+[2025.03.24-06.06.30:392][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-06.06.30:392][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-06.06.30:392][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-06.06.30:392][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-06.06.30:392][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-06.06.30:392][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-06.06.30:392][278]AssetCheck: /Game/MyBrickHouseMap2023192003 Validating asset
+[2025.03.24-06.06.30:706][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
