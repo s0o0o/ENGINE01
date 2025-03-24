@@ -1355,3 +1355,198 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.24-05.23.58:229][459]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 44.58 ms. Compile time 32.81 ms, link time 11.75 ms.
 [2025.03.24-05.23.58:483][460]LogPSOHitching: Encountered 100 PSO creation hitches so far (35 graphics, 65 compute). 0 of them were precached.
 [2025.03.24-05.24.03:870][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.24-05.24.27:504][ 35]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LEC05/BP_AutoFence.BP_AutoFence
+[2025.03.24-05.24.27:504][ 35]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.03.24-05.24.27:527][ 35]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.24.28:396][ 35]LogSlate: Took 0.001012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.24-05.24.56:285][980]LogEditorTransaction: Undo Create Reroute Node
+[2025.03.24-05.25.00:709][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.24-05.25.16:858][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.24-05.25.35:663][452]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.019 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
+[2025.03.24-05.25.59:626][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.24-05.26.04:434][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.24-05.26.04:458][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.26.04:490][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC05/BP_AutoFence] ([2] browsable assets)...
+[2025.03.24-05.26.04:490][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC05/BP_AutoFence]
+[2025.03.24-05.26.04:490][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/BP_AutoFence" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset" SILENT=true
+[2025.03.24-05.26.04:495][780]LogSavePackage: Moving output files for package: /Game/LEC05/BP_AutoFence
+[2025.03.24-05.26.04:496][780]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/BP_AutoFence28587AFA43624978A6BCD8815065E2F7.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset'
+[2025.03.24-05.26.04:504][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.379 ms
+[2025.03.24-05.26.04:554][780]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.26.04:554][780]LogContentValidation: Enabled validators:
+[2025.03.24-05.26.04:554][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.26.04:554][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.26.04:554][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.26.04:554][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.26.04:554][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.26.04:554][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.26.04:555][780]AssetCheck: /Game/LEC05/BP_AutoFence Validating asset
+[2025.03.24-05.26.56:349][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.24-05.27.07:082][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.24-05.27.07:088][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.27.07:138][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC05/BP_AutoFence] ([2] browsable assets)...
+[2025.03.24-05.27.07:138][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC05/BP_AutoFence]
+[2025.03.24-05.27.07:138][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/BP_AutoFence" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset" SILENT=true
+[2025.03.24-05.27.07:145][311]LogSavePackage: Moving output files for package: /Game/LEC05/BP_AutoFence
+[2025.03.24-05.27.07:145][311]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/BP_AutoFence23EF31044C79C6F2AEDD3084E56528EF.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset'
+[2025.03.24-05.27.07:153][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.712 ms (total: 111.091 ms)
+[2025.03.24-05.27.07:183][311]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.27.07:183][311]LogContentValidation: Enabled validators:
+[2025.03.24-05.27.07:183][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.27.07:183][311]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.27.07:183][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.27.07:183][311]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.27.07:183][311]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.27.07:183][311]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.27.07:183][311]AssetCheck: /Game/LEC05/BP_AutoFence Validating asset
+[2025.03.24-05.27.53:835][930]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.24-05.27.53:858][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.24-05.27.53:862][930]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.24-05.27.53:862][930]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.24-05.27.53:862][930]LogPlayLevel: Creating play world package: /Game/LEC05/UEDPIE_0_factorymap
+[2025.03.24-05.27.53:866][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004202s)
+[2025.03.24-05.27.53:866][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC05/factorymap.factorymap to /Game/LEC05/UEDPIE_0_factorymap.factorymap (0.004238s)
+[2025.03.24-05.27.53:890][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.24-05.27.53:896][930]LogChaosDD: Creating Chaos Debug Draw Scene for world factorymap
+[2025.03.24-05.27.53:896][930]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2025.03.24-05.27.53:898][930]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.24-05.27.53:898][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.24-05.27.53:898][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.24-05.27.53:898][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.24-05.27.53:898][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.24-05.27.53:898][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.24-05.27.53:900][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.24-05.27.53:932][930]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.24-05.27.53:932][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.24-05.27.53:932][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.24-05.27.53:932][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.24-05.27.53:932][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.24-05.27.53:932][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.24-05.27.53:934][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.24-05.27.53:934][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.24-05.27.53:934][930]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.24-05.27.53:934][930]LogAudio: Display: Audio Device (ID: 2) registered with world 'factorymap'.
+[2025.03.24-05.27.53:934][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.24-05.27.53:936][930]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.24-05.27.53:940][930]LogWorld: Bringing World /Game/LEC05/UEDPIE_0_factorymap.factorymap up for play (max tick rate 0) at 2025.03.24-14.27.53
+[2025.03.24-05.27.53:940][930]LogWorld: Bringing up level for play took: 0.002402
+[2025.03.24-05.27.53:942][930]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.03.24-05.27.53:951][930]PIE: Server logged in
+[2025.03.24-05.27.53:952][930]PIE: Play in editor total start time 0.094 seconds.
+[2025.03.24-05.27.59:349][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-05.27.59:349][535]LogWorld: BeginTearingDown for /Game/LEC05/UEDPIE_0_factorymap
+[2025.03.24-05.27.59:349][535]LogWorld: UWorld::CleanupWorld for factorymap, bSessionEnded=true, bCleanupResources=true
+[2025.03.24-05.27.59:350][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-05.27.59:357][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.24-05.27.59:361][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.24-05.27.59:379][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.24-05.27.59:379][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.24-05.27.59:379][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.24-05.27.59:380][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.24-05.27.59:388][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.24-05.27.59:430][536]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.03.24-05.28.09:240][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.24-05.28.09:244][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.28.09:299][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/factorymap" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/factorymap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.24-05.28.09:350][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.24-05.28.09:361][707]LogSavePackage: Moving output files for package: /Game/LEC05/factorymap
+[2025.03.24-05.28.09:362][707]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/factorymap1AE3AB2747DAA74F148E3A831EAAA41F.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/factorymap.umap'
+[2025.03.24-05.28.09:371][707]LogFileHelpers: Saving map 'factorymap' took 0.072
+[2025.03.24-05.28.09:378][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.329 ms (total: 245.420 ms)
+[2025.03.24-05.28.09:431][707]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.28.09:431][707]LogContentValidation: Enabled validators:
+[2025.03.24-05.28.09:431][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.28.09:431][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.28.09:431][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.28.09:431][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.28.09:431][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.28.09:431][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.28.09:431][707]AssetCheck: /Game/LEC05/factorymap Validating asset
+[2025.03.24-05.29.27:343][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.24-05.30.16:397][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.24-05.30.31:168][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.24-05.30.39:280][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.24-05.30.39:283][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.30.39:345][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC05/BP_AutoFence] ([2] browsable assets)...
+[2025.03.24-05.30.39:345][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC05/BP_AutoFence]
+[2025.03.24-05.30.39:345][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/BP_AutoFence" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset" SILENT=true
+[2025.03.24-05.30.39:351][486]LogSavePackage: Moving output files for package: /Game/LEC05/BP_AutoFence
+[2025.03.24-05.30.39:352][486]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/BP_AutoFence7C87BF824CA25E62364370B6A1CE079E.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset'
+[2025.03.24-05.30.39:359][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.839 ms (total: 321.260 ms)
+[2025.03.24-05.30.39:407][486]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.30.39:407][486]LogContentValidation: Enabled validators:
+[2025.03.24-05.30.39:407][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.30.39:407][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.30.39:407][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.30.39:407][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.30.39:407][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.30.39:407][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.30.39:408][486]AssetCheck: /Game/LEC05/BP_AutoFence Validating asset
+[2025.03.24-05.32.47:260][218]LogEditorTransaction: Undo Move Node
+[2025.03.24-05.32.47:842][232]LogEditorTransaction: Undo Move Node
+[2025.03.24-05.32.48:544][306]LogEditorTransaction: Undo Move Node
+[2025.03.24-05.32.49:202][375]LogEditorTransaction: Undo Promote To Variable
+[2025.03.24-05.34.09:025][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.24-05.34.09:027][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.34.09:082][756]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC05/BP_AutoFence] ([2] browsable assets)...
+[2025.03.24-05.34.09:082][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC05/BP_AutoFence]
+[2025.03.24-05.34.09:083][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/BP_AutoFence" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset" SILENT=true
+[2025.03.24-05.34.09:089][756]LogSavePackage: Moving output files for package: /Game/LEC05/BP_AutoFence
+[2025.03.24-05.34.09:108][756]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/BP_AutoFence12B851D242A0056CE9F514843E7FF293.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset'
+[2025.03.24-05.34.09:115][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.385 ms (total: 408.645 ms)
+[2025.03.24-05.34.09:145][756]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.34.09:145][756]LogContentValidation: Enabled validators:
+[2025.03.24-05.34.09:145][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.34.09:145][756]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.34.09:145][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.34.09:145][756]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.34.09:145][756]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.34.09:145][756]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.34.09:145][756]AssetCheck: /Game/LEC05/BP_AutoFence Validating asset
+[2025.03.24-05.34.10:528][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.24-05.34.57:301][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.24-05.34.57:305][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.34.57:367][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC05/BP_AutoFence] ([2] browsable assets)...
+[2025.03.24-05.34.57:368][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC05/BP_AutoFence]
+[2025.03.24-05.34.57:368][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/BP_AutoFence" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset" SILENT=true
+[2025.03.24-05.34.57:374][300]LogSavePackage: Moving output files for package: /Game/LEC05/BP_AutoFence
+[2025.03.24-05.34.57:393][300]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/BP_AutoFence6E15FC0949B0C9946DBF0081A0CD873C.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset'
+[2025.03.24-05.34.57:401][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.554 ms (total: 505.200 ms)
+[2025.03.24-05.34.57:463][300]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.34.57:463][300]LogContentValidation: Enabled validators:
+[2025.03.24-05.34.57:463][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.34.57:463][300]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.34.57:463][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.34.57:463][300]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.34.57:464][300]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.34.57:464][300]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.34.57:464][300]AssetCheck: /Game/LEC05/BP_AutoFence Validating asset
+[2025.03.24-05.35.13:315][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.24-05.35.50:707][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.24-05.35.50:712][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-05.35.50:785][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC05/BP_AutoFence] ([2] browsable assets)...
+[2025.03.24-05.35.50:785][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC05/BP_AutoFence]
+[2025.03.24-05.35.50:785][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC05/BP_AutoFence" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset" SILENT=true
+[2025.03.24-05.35.50:792][116]LogSavePackage: Moving output files for package: /Game/LEC05/BP_AutoFence
+[2025.03.24-05.35.50:793][116]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Saved/BP_AutoFence260A1BE94655F70511BC649422E240C2.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB02_2023192003/Content/LEC05/BP_AutoFence.uasset'
+[2025.03.24-05.35.50:801][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.048 ms (total: 593.248 ms)
+[2025.03.24-05.35.50:865][116]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-05.35.50:865][116]LogContentValidation: Enabled validators:
+[2025.03.24-05.35.50:865][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-05.35.50:865][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-05.35.50:865][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-05.35.50:865][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-05.35.50:865][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-05.35.50:865][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-05.35.50:865][116]AssetCheck: /Game/LEC05/BP_AutoFence Validating asset
+[2025.03.24-05.35.51:113][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.24-05.36.17:693][145]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LEC05/SM_Panel.SM_Panel
+[2025.03.24-05.36.17:760][145]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.03.24-05.36.17:765][145]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.24-05.36.24:092][591]LogSlate: Window 'SM_Panel' being destroyed
