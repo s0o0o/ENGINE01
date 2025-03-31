@@ -7785,3 +7785,383 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.31-06.05.43:700][187]AssetCheck: /Game/LEC07/BP_AIRCRAFT Validating asset
+[2025.03.31-06.06.00:291][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.31-06.06.01:132][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.31-06.06.05:560][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-06.06.05:586][ 26]LogContentBundle: [HugeMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-06.06.05:586][ 26]LogWorldPartition: Display: GenerateStreaming for 'HugeMap' started...
+[2025.03.31-06.06.05:591][ 26]LogWorldPartition: Display: GenerateStreaming for 'HugeMap' took 4.418 ms (total: 106.860 ms)
+[2025.03.31-06.06.05:591][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-06.06.05:591][ 26]LogPlayLevel: Creating play world package: /Game/LEC08-InputSystem/UEDPIE_0_HugeMap
+[2025.03.31-06.06.05:598][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007373s)
+[2025.03.31-06.06.05:598][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08-InputSystem/HugeMap.HugeMap to /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap (0.007401s)
+[2025.03.31-06.06.05:614][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.31-06.06.05:616][ 26]LogChaosDD: Creating Chaos Debug Draw Scene for world HugeMap
+[2025.03.31-06.06.05:618][ 26]LogWorldPartition: ULevel::OnLevelLoaded(HugeMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-06.06.05:618][ 26]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-06.06.05:618][ 26]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-06.06.05:618][ 26]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-06.06.05:623][ 26]LogWorldPartition: Display: WorldPartition initialize took 6.226 ms (total: 1.11 sec)
+[2025.03.31-06.06.05:623][ 26]LogPlayLevel: PIE: World Init took: (0.007715s)
+[2025.03.31-06.06.05:624][ 26]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-06.06.05:624][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-06.06.05:624][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-06.06.05:624][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-06.06.05:624][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-06.06.05:624][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-06.06.05:626][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-06.06.05:659][ 26]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.31-06.06.05:659][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-06.06.05:659][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-06.06.05:659][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-06.06.05:660][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.03.31-06.06.05:660][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.03.31-06.06.05:663][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.03.31-06.06.05:663][ 26]LogInit: FAudioDevice initialized with ID 31.
+[2025.03.31-06.06.05:663][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.03.31-06.06.05:663][ 26]LogAudio: Display: Audio Device (ID: 31) registered with world 'HugeMap'.
+[2025.03.31-06.06.05:663][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.03.31-06.06.05:666][ 26]LogLoad: Game class is 'BP_AircraftGameMode_C'
+[2025.03.31-06.06.05:667][ 26]LogWorld: Bringing World /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap up for play (max tick rate 0) at 2025.03.31-15.06.05
+[2025.03.31-06.06.05:667][ 26]LogWorld: Bringing up level for play took: 0.001340
+[2025.03.31-06.06.05:669][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.03.31-06.06.05:673][ 26]LogStreaming: Display: FlushAsyncLoading(1961,1960,1959,1958,1957,1956,1955,1954,1953,1952,1951,1950,1949,1948,1947,1946,1945,1944,1943,1942,1941,1940,1939,1938,1937,1936,1935,1934,1933,1932,1931,1930,1929,1928,1927,1926,1925,1923,1924,1922,1921,1920,1919,1918,1917): 45 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.06.05:813][ 26]PIE: Server logged in
+[2025.03.31-06.06.05:814][ 26]PIE: Play in editor total start time 0.228 seconds.
+[2025.03.31-06.06.08:501][329]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:511][330]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:520][331]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:530][332]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:540][333]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:554][334]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:569][335]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:585][336]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:601][337]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:616][338]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.08:632][339]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:785][947]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:793][948]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:801][949]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:811][950]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:821][951]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:835][952]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:851][953]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:866][954]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.13:881][955]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:732][  8]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:741][  9]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:750][ 10]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:761][ 11]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:772][ 12]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:785][ 13]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:800][ 14]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:815][ 15]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:829][ 16]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:845][ 17]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.22:861][ 18]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:712][467]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:722][468]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:732][469]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:743][470]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:755][471]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:766][472]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:782][473]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:797][474]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:813][475]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:828][476]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:844][477]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.26:860][478]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.06.28:639][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-06.06.28:639][680]LogWorld: BeginTearingDown for /Game/LEC08-InputSystem/UEDPIE_0_HugeMap
+[2025.03.31-06.06.28:647][680]LogWorld: UWorld::CleanupWorld for HugeMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-06.06.28:648][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.06.28:648][680]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap
+[2025.03.31-06.06.28:652][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-06.06.28:657][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.06.28:677][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.31-06.06.28:677][680]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.03.31-06.06.28:677][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.03.31-06.06.28:680][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.03.31-06.06.28:683][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-06.06.28:690][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.31-06.06.28:754][681]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.03.31-06.07.52:503][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.31-06.07.59:074][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-06.07.59:099][127]LogContentBundle: [HugeMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-06.07.59:099][127]LogWorldPartition: Display: GenerateStreaming for 'HugeMap' started...
+[2025.03.31-06.07.59:105][127]LogWorldPartition: Display: GenerateStreaming for 'HugeMap' took 4.347 ms (total: 111.207 ms)
+[2025.03.31-06.07.59:105][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-06.07.59:105][127]LogPlayLevel: Creating play world package: /Game/LEC08-InputSystem/UEDPIE_0_HugeMap
+[2025.03.31-06.07.59:112][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007397s)
+[2025.03.31-06.07.59:112][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08-InputSystem/HugeMap.HugeMap to /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap (0.007426s)
+[2025.03.31-06.07.59:127][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.31-06.07.59:128][127]LogChaosDD: Creating Chaos Debug Draw Scene for world HugeMap
+[2025.03.31-06.07.59:130][127]LogWorldPartition: ULevel::OnLevelLoaded(HugeMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-06.07.59:130][127]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-06.07.59:130][127]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-06.07.59:130][127]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-06.07.59:136][127]LogWorldPartition: Display: WorldPartition initialize took 6.073 ms (total: 1.12 sec)
+[2025.03.31-06.07.59:136][127]LogPlayLevel: PIE: World Init took: (0.007540s)
+[2025.03.31-06.07.59:136][127]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-06.07.59:136][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-06.07.59:136][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-06.07.59:136][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-06.07.59:136][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-06.07.59:136][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-06.07.59:138][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-06.07.59:168][127]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.31-06.07.59:168][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-06.07.59:168][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-06.07.59:168][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-06.07.59:169][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.03.31-06.07.59:169][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.03.31-06.07.59:171][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.03.31-06.07.59:171][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.03.31-06.07.59:171][127]LogInit: FAudioDevice initialized with ID 32.
+[2025.03.31-06.07.59:171][127]LogAudio: Display: Audio Device (ID: 32) registered with world 'HugeMap'.
+[2025.03.31-06.07.59:171][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.03.31-06.07.59:174][127]LogLoad: Game class is 'BP_AircraftGameMode_C'
+[2025.03.31-06.07.59:176][127]LogWorld: Bringing World /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap up for play (max tick rate 0) at 2025.03.31-15.07.59
+[2025.03.31-06.07.59:176][127]LogWorld: Bringing up level for play took: 0.001226
+[2025.03.31-06.07.59:177][127]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.31-06.07.59:182][127]LogStreaming: Display: FlushAsyncLoading(2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985,1984,1983,1982,1981,1980,1979,1978,1977,1976,1975,1974,1973,1972,1971,1970,1968,1969,1967,1966,1965,1964,1963,1962): 45 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.07.59:317][127]PIE: Server logged in
+[2025.03.31-06.07.59:319][127]PIE: Play in editor total start time 0.219 seconds.
+[2025.03.31-06.08.00:357][241]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.03:617][591]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.07:152][  4]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.07:519][ 46]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.07:901][ 87]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.08:325][136]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.08:692][179]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.08:958][209]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.09:283][247]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.15:897][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-06.08.15:897][ 28]LogWorld: BeginTearingDown for /Game/LEC08-InputSystem/UEDPIE_0_HugeMap
+[2025.03.31-06.08.15:904][ 28]LogWorld: UWorld::CleanupWorld for HugeMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-06.08.15:904][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.08.15:904][ 28]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap
+[2025.03.31-06.08.15:909][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-06.08.15:913][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.08.15:934][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-06.08.15:934][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.03.31-06.08.15:934][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.03.31-06.08.15:937][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.03.31-06.08.15:949][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.31-06.08.16:011][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.31-06.08.32:111][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-06.08.32:118][828]LogContentBundle: [HugeMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-06.08.32:118][828]LogWorldPartition: Display: GenerateStreaming for 'HugeMap' started...
+[2025.03.31-06.08.32:122][828]LogWorldPartition: Display: GenerateStreaming for 'HugeMap' took 4.420 ms (total: 115.628 ms)
+[2025.03.31-06.08.32:122][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-06.08.32:146][828]LogPlayLevel: Creating play world package: /Game/LEC08-InputSystem/UEDPIE_0_HugeMap
+[2025.03.31-06.08.32:154][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007622s)
+[2025.03.31-06.08.32:154][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEC08-InputSystem/HugeMap.HugeMap to /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap (0.007656s)
+[2025.03.31-06.08.32:169][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.31-06.08.32:171][828]LogChaosDD: Creating Chaos Debug Draw Scene for world HugeMap
+[2025.03.31-06.08.32:173][828]LogWorldPartition: ULevel::OnLevelLoaded(HugeMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-06.08.32:173][828]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-06.08.32:173][828]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-06.08.32:173][828]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-06.08.32:178][828]LogWorldPartition: Display: WorldPartition initialize took 6.099 ms (total: 1.13 sec)
+[2025.03.31-06.08.32:178][828]LogPlayLevel: PIE: World Init took: (0.007508s)
+[2025.03.31-06.08.32:179][828]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-06.08.32:179][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-06.08.32:179][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-06.08.32:179][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-06.08.32:179][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-06.08.32:179][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-06.08.32:181][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-06.08.32:210][828]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.03.31-06.08.32:211][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-06.08.32:211][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-06.08.32:211][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-06.08.32:212][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.03.31-06.08.32:212][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.03.31-06.08.32:214][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.03.31-06.08.32:214][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.03.31-06.08.32:214][828]LogInit: FAudioDevice initialized with ID 33.
+[2025.03.31-06.08.32:214][828]LogAudio: Display: Audio Device (ID: 33) registered with world 'HugeMap'.
+[2025.03.31-06.08.32:214][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.03.31-06.08.32:217][828]LogLoad: Game class is 'BP_AircraftGameMode_C'
+[2025.03.31-06.08.32:218][828]LogWorld: Bringing World /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap up for play (max tick rate 0) at 2025.03.31-15.08.32
+[2025.03.31-06.08.32:218][828]LogWorld: Bringing up level for play took: 0.001354
+[2025.03.31-06.08.32:220][828]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.03.31-06.08.32:224][828]LogStreaming: Display: FlushAsyncLoading(2056,2055,2054,2053,2052,2051,2050,2049,2048,2047,2046,2045,2044,2043,2042,2041,2040,2039,2038,2037,2036,2035,2034,2033,2032,2031,2030,2029,2028,2027,2026,2025,2024,2023,2022,2021,2020,2018,2019,2017,2016,2015,2014,2013,2012): 45 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.08.32:361][828]PIE: Server logged in
+[2025.03.31-06.08.32:362][828]PIE: Play in editor total start time 0.243 seconds.
+[2025.03.31-06.08.33:755][984]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.34:221][ 39]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.34:727][ 98]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.42:433][ 18]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.42:685][ 47]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.42:900][ 72]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.43:097][ 93]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.43:326][119]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.43:568][146]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.44:022][197]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.44:327][232]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.44:869][295]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.45:075][319]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.45:251][340]LogBlueprintUserMessages: [BP_AIRCRAFT_C_0] boom
+[2025.03.31-06.08.46:226][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-06.08.46:226][453]LogWorld: BeginTearingDown for /Game/LEC08-InputSystem/UEDPIE_0_HugeMap
+[2025.03.31-06.08.46:233][453]LogWorld: UWorld::CleanupWorld for HugeMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-06.08.46:233][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.08.46:233][453]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LEC08-InputSystem/UEDPIE_0_HugeMap.HugeMap
+[2025.03.31-06.08.46:238][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-06.08.46:242][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.08.46:262][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-06.08.46:262][453]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.03.31-06.08.46:262][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.03.31-06.08.46:264][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.03.31-06.08.46:275][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.31-06.08.46:339][454]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.03.31-06.08.51:221][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.31-06.08.51:226][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-06.08.51:293][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC07/BP_AIRCRAFT] ([2] browsable assets)...
+[2025.03.31-06.08.51:339][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC07/BP_AIRCRAFT.BP_AIRCRAFT]
+[2025.03.31-06.08.51:339][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC07/BP_AIRCRAFT]
+[2025.03.31-06.08.51:339][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC07/BP_AIRCRAFT" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset" SILENT=true
+[2025.03.31-06.08.51:343][971]LogSavePackage: Moving output files for package: /Game/LEC07/BP_AIRCRAFT
+[2025.03.31-06.08.51:346][971]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_AIRCRAFT878FDBD6420F72F33D4F4AA24405244A.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset'
+[2025.03.31-06.08.51:355][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.946 ms (total: 13.1 sec)
+[2025.03.31-06.08.51:402][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-06.08.51:402][971]LogContentValidation: Enabled validators:
+[2025.03.31-06.08.51:402][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-06.08.51:402][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-06.08.51:402][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-06.08.51:402][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-06.08.51:402][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-06.08.51:402][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-06.08.51:402][971]AssetCheck: /Game/LEC07/BP_AIRCRAFT Validating asset
+[2025.03.31-06.09.11:926][145]LogSlate: Window 'Widget Reflector' being destroyed
+[2025.03.31-06.09.11:935][145]LogSlate: Window 'Widget Reflector' being destroyed
+[2025.03.31-06.09.19:921][884]LogStreaming: Display: FlushAsyncLoading(2058): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.09.19:923][884]LogStaticMesh: Display: Building static mesh Shape_Torus (Required Memory Estimate: 3.643354 MB)...
+[2025.03.31-06.09.19:952][884]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2025.03.31-06.09.20:279][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2025.03.31-06.09.20:279][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2025.03.31-06.09.20:279][908]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_1
+[2025.03.31-06.09.20:813][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.31-06.09.20:816][954]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.03.31-06.09.20:819][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2025.03.31-06.09.20:819][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2025.03.31-06.09.20:821][954]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_UAID_BC0FF3C37CEE705A02_1275496249
+[2025.03.31-06.09.42:410][ 95]Cmd: TRANSACTION UNDO
+[2025.03.31-06.09.42:410][ 95]LogEditorTransaction: Undo Scale Elements
+[2025.03.31-06.09.47:812][542]LogStreaming: Display: FlushAsyncLoading(2059): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.09.47:813][542]LogStaticMesh: Display: Building static mesh Shape_Cone (Required Memory Estimate: 0.410477 MB)...
+[2025.03.31-06.09.47:816][542]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2025.03.31-06.09.47:970][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2025.03.31-06.09.47:970][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2025.03.31-06.09.47:970][544]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_2
+[2025.03.31-06.09.48:790][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.31-06.09.48:791][615]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.03.31-06.09.48:800][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2025.03.31-06.09.48:800][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2025.03.31-06.09.48:802][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_UAID_BC0FF3C37CEE705A02_1303477252
+[2025.03.31-06.10.10:291][579]LogStreaming: Display: FlushAsyncLoading(2060): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.10.23:708][853]LogStreaming: Display: FlushAsyncLoading(2061): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.10.50:010][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_B550ACB7.Torus_B550ACB7
+[2025.03.31-06.10.50:010][207]LogStaticMesh: Display: Building static mesh Torus_B550ACB7 (Required Memory Estimate: 0.804291 MB)...
+[2025.03.31-06.10.50:012][207]LogActorFactory: Actor Factory spawned StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_B550ACB7.Torus_B550ACB7 as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_UAID_BC0FF3C37CEE705A02_1364687254
+[2025.03.31-06.10.50:013][207]LogStaticMesh: Built static mesh [0.00s] /Game/LEC08-InputSystem/_GENERATED/user/Torus_B550ACB7.Torus_B550ACB7
+[2025.03.31-06.12.22:964][766]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_B550ACB7.Torus_B550ACB7
+[2025.03.31-06.12.22:995][766]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.03.31-06.12.23:001][766]LogStreaming: Display: FlushAsyncLoading(2063): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-06.12.28:176][247]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-06.12.28:176][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.12.28:290][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.31-06.12.39:508][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_C68D4CFB.Torus_C68D4CFB
+[2025.03.31-06.12.39:508][422]LogStaticMesh: Display: Building static mesh Torus_C68D4CFB (Required Memory Estimate: 0.804291 MB)...
+[2025.03.31-06.12.39:511][422]LogStaticMesh: Built static mesh [0.00s] /Game/LEC08-InputSystem/_GENERATED/user/Torus_C68D4CFB.Torus_C68D4CFB
+[2025.03.31-06.12.39:511][422]LogActorFactory: Actor Factory spawned StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_C68D4CFB.Torus_C68D4CFB as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_UAID_BC0FF3C37CEE705A02_1474185255
+[2025.03.31-06.12.51:213][562]Cmd: TRANSACTION UNDO
+[2025.03.31-06.12.51:213][562]LogEditorTransaction: Undo Set Scale
+[2025.03.31-06.12.59:095][234]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_B550ACB7.Torus_B550ACB7
+[2025.03.31-06.12.59:100][234]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.03.31-06.13.03:132][598]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-06.13.03:132][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-06.13.03:212][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.31-06.13.11:035][389]Cmd: DELETE
+[2025.03.31-06.13.11:035][389]Cmd: ACTOR DELETE
+[2025.03.31-06.13.11:062][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.31-06.13.11:084][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.31-06.13.11:089][389]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.03.31-06.13.12:758][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.31-06.13.14:120][552]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.31-06.13.14:163][552]LogWorldPartition: Actor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_UAID_BC0FF3C37CEE6F5A02_1432548071 is unreachable without properly detaching object /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/9/TV/B45HD23MB99GSTXRLY9QAA.PackageMetaData in its package
+[2025.03.31-06.13.14:166][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.31-06.13.14:186][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.31-06.13.14:204][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.31-06.13.14:224][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-06.13.16:539][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.31-06.13.17:517][772]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.31-06.13.17:587][772]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LEC08-InputSystem/_GENERATED/user/Torus_B550ACB7.Torus_B550ACB7
+	Asset Type: StaticMesh
+[2025.03.31-06.13.17:885][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.31-06.13.17:905][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.31-06.13.17:924][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-06.13.45:465][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677.Torus_01C6E677
+[2025.03.31-06.13.45:465][988]LogStaticMesh: Display: Building static mesh Torus_01C6E677 (Required Memory Estimate: 0.804291 MB)...
+[2025.03.31-06.13.45:466][988]LogStaticMesh: Built static mesh [0.00s] /Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677.Torus_01C6E677
+[2025.03.31-06.13.45:468][988]LogActorFactory: Actor Factory spawned StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677.Torus_01C6E677 as actor: StaticMeshActor /Game/LEC08-InputSystem/HugeMap.HugeMap:PersistentLevel.StaticMeshActor_UAID_BC0FF3C37CEE705A02_1540142256
+[2025.03.31-06.14.07:014][111]Cmd: DELETE
+[2025.03.31-06.14.07:014][111]Cmd: ACTOR DELETE
+[2025.03.31-06.14.08:144][213]Cmd: DELETE
+[2025.03.31-06.14.08:144][213]Cmd: ACTOR DELETE
+[2025.03.31-06.14.09:834][377]Cmd: DELETE
+[2025.03.31-06.14.09:834][377]Cmd: ACTOR DELETE
+[2025.03.31-06.14.09:837][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.31-06.14.09:856][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.31-06.14.09:861][377]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.03.31-06.14.11:265][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.31-06.14.11:271][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-06.14.11:309][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/2/C6/4J48JU6PDTKRE82RIH20FI
+[2025.03.31-06.14.11:309][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/4J48JU6PDTKRE82RIH20FI94469E244B2668EC072F38BF3C51BFD4.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/__ExternalActors__/LEC08-InputSystem/HugeMap/2/C6/4J48JU6PDTKRE82RIH20FI.uasset'
+[2025.03.31-06.14.11:313][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/7/8F/YPUK485M3I8P6IUGLTQ36F
+[2025.03.31-06.14.11:313][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/YPUK485M3I8P6IUGLTQ36FBC7BF4E04CA063E2555C8E8C316CC90E.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/__ExternalActors__/LEC08-InputSystem/HugeMap/7/8F/YPUK485M3I8P6IUGLTQ36F.uasset'
+[2025.03.31-06.14.11:315][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/0/LN/85SURWB6L8IS3ZINBFKUHS
+[2025.03.31-06.14.11:315][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/85SURWB6L8IS3ZINBFKUHS22187B0A49FCF1FCBCD0EBB822D8A0C2.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/__ExternalActors__/LEC08-InputSystem/HugeMap/0/LN/85SURWB6L8IS3ZINBFKUHS.uasset'
+[2025.03.31-06.14.11:318][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/8/35/J6SPPRI6UZCGVGFKPXURZJ
+[2025.03.31-06.14.11:318][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/J6SPPRI6UZCGVGFKPXURZJD7A552A545971F4656A20BBD221EB4DB.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/__ExternalActors__/LEC08-InputSystem/HugeMap/8/35/J6SPPRI6UZCGVGFKPXURZJ.uasset'
+[2025.03.31-06.14.11:320][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/E/1G/8QCRSWPV4G7RM2X2IS8ATX
+[2025.03.31-06.14.11:320][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/8QCRSWPV4G7RM2X2IS8ATX290E1F8E49C6A59E4495BB990D784B0F.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/__ExternalActors__/LEC08-InputSystem/HugeMap/E/1G/8QCRSWPV4G7RM2X2IS8ATX.uasset'
+[2025.03.31-06.14.11:324][538]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LEC08-InputSystem/HugeMap/4/8F/EEM3HJ9BD9CVTJ0MH5KXRQ
+[2025.03.31-06.14.11:324][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/EEM3HJ9BD9CVTJ0MH5KXRQ6AD96CD54AB9A8659057F8B4CC7A7070.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/__ExternalActors__/LEC08-InputSystem/HugeMap/4/8F/EEM3HJ9BD9CVTJ0MH5KXRQ.uasset'
+[2025.03.31-06.14.11:325][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677] ([1] browsable assets)...
+[2025.03.31-06.14.11:362][538]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677.Torus_01C6E677]
+[2025.03.31-06.14.11:362][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677]
+[2025.03.31-06.14.11:365][538]LogSavePackage: Moving output files for package: /Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677
+[2025.03.31-06.14.11:365][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/Torus_01C6E677F63231484B392F45B7A2DA8346EB04C0.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677.uasset'
+[2025.03.31-06.14.11:378][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.517 ms (total: 13.2 sec)
+[2025.03.31-06.14.11:445][538]LogContentValidation: Display: Starting to validate 7 assets
+[2025.03.31-06.14.11:445][538]LogContentValidation: Enabled validators:
+[2025.03.31-06.14.11:445][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-06.14.11:445][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-06.14.11:445][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-06.14.11:445][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-06.14.11:445][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-06.14.11:445][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-06.14.11:446][538]AssetCheck: /Game/LEC08-InputSystem/HugeMap Validating asset
+[2025.03.31-06.14.11:446][538]AssetCheck: /Game/LEC08-InputSystem/_GENERATED/user/Torus_01C6E677 Validating asset
