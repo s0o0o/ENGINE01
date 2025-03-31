@@ -7716,3 +7716,72 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.31-06.00.26:248][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.31-06.00.26:248][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.31-06.00.26:248][429]AssetCheck: /Game/LEC08-InputSystem/BP_AircraftPlayerController Validating asset
+[2025.03.31-06.01.43:339][727]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC08-InputSystem\BP_AircraftPlayerController.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'BeginDeferredActorSpawnFromClass' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.03.31-06.01.43:339][727]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\ysys\ENGINE01\LAB1\Content\LEC08-InputSystem\BP_AircraftPlayerController.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'FinishSpawningActor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.03.31-06.01.43:394][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.31-06.01.53:468][900]LogEditorTransaction: Undo Add Component
+[2025.03.31-06.02.23:564][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.31-06.02.58:213][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.31-06.03.00:187][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.31-06.03.00:192][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-06.03.00:262][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC07/BP_AIRCRAFT] ([2] browsable assets)...
+[2025.03.31-06.03.00:353][538]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC07/BP_AIRCRAFT.BP_AIRCRAFT]
+[2025.03.31-06.03.00:353][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC07/BP_AIRCRAFT]
+[2025.03.31-06.03.00:353][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC07/BP_AIRCRAFT" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset" SILENT=true
+[2025.03.31-06.03.00:359][538]LogSavePackage: Moving output files for package: /Game/LEC07/BP_AIRCRAFT
+[2025.03.31-06.03.00:360][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_AIRCRAFT16D23EDD42E0C03E17C3F5B1C668B338.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset'
+[2025.03.31-06.03.00:362][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LEC08-InputSystem/BP_AircraftPlayerController] ([2] browsable assets)...
+[2025.03.31-06.03.00:362][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC08-InputSystem/BP_AircraftPlayerController]
+[2025.03.31-06.03.00:367][538]LogSavePackage: Moving output files for package: /Game/LEC08-InputSystem/BP_AircraftPlayerController
+[2025.03.31-06.03.00:368][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_AircraftPlayerControllerD78E802D4537443E5D3BB0B4E0FF5668.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC08-InputSystem/BP_AircraftPlayerController.uasset'
+[2025.03.31-06.03.00:376][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.043 ms (total: 12.7 sec)
+[2025.03.31-06.03.00:442][538]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.31-06.03.00:442][538]LogContentValidation: Enabled validators:
+[2025.03.31-06.03.00:442][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-06.03.00:442][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-06.03.00:442][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-06.03.00:442][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-06.03.00:442][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-06.03.00:442][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-06.03.00:442][538]AssetCheck: /Game/LEC07/BP_AIRCRAFT Validating asset
+[2025.03.31-06.03.00:442][538]AssetCheck: /Game/LEC08-InputSystem/BP_AircraftPlayerController Validating asset
+[2025.03.31-06.03.02:116][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.31-06.03.37:235][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.31-06.04.24:208][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.31-06.05.06:657][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.31-06.05.06:661][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-06.05.06:697][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC07/BP_AIRCRAFT] ([2] browsable assets)...
+[2025.03.31-06.05.06:791][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC07/BP_AIRCRAFT.BP_AIRCRAFT]
+[2025.03.31-06.05.06:791][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC07/BP_AIRCRAFT]
+[2025.03.31-06.05.06:791][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC07/BP_AIRCRAFT" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset" SILENT=true
+[2025.03.31-06.05.06:798][143]LogSavePackage: Moving output files for package: /Game/LEC07/BP_AIRCRAFT
+[2025.03.31-06.05.06:799][143]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_AIRCRAFT645F19754B4692AAA810C8AB139D2651.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset'
+[2025.03.31-06.05.06:807][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.895 ms (total: 12.8 sec)
+[2025.03.31-06.05.06:845][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-06.05.06:845][143]LogContentValidation: Enabled validators:
+[2025.03.31-06.05.06:845][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-06.05.06:845][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-06.05.06:845][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-06.05.06:845][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-06.05.06:845][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-06.05.06:845][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-06.05.06:845][143]AssetCheck: /Game/LEC07/BP_AIRCRAFT Validating asset
+[2025.03.31-06.05.38:379][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.31-06.05.43:470][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.31-06.05.43:474][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-06.05.43:534][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LEC07/BP_AIRCRAFT] ([2] browsable assets)...
+[2025.03.31-06.05.43:622][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LEC07/BP_AIRCRAFT.BP_AIRCRAFT]
+[2025.03.31-06.05.43:622][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC07/BP_AIRCRAFT]
+[2025.03.31-06.05.43:622][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC07/BP_AIRCRAFT" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset" SILENT=true
+[2025.03.31-06.05.43:628][187]LogSavePackage: Moving output files for package: /Game/LEC07/BP_AIRCRAFT
+[2025.03.31-06.05.43:638][187]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Saved/BP_AIRCRAFT484DA75448D9EF57B60B67BAED823580.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/Content/LEC07/BP_AIRCRAFT.uasset'
+[2025.03.31-06.05.43:645][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.223 ms (total: 13.0 sec)
+[2025.03.31-06.05.43:700][187]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-06.05.43:700][187]LogContentValidation: Enabled validators:
+[2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-06.05.43:700][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-06.05.43:700][187]AssetCheck: /Game/LEC07/BP_AIRCRAFT Validating asset
