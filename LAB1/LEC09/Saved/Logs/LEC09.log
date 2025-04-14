@@ -4273,3 +4273,371 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.14-06.04.54:643][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.04.14-06.04.54:645][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.04.14-06.04.54:760][573]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.04.14-06.05.18:436][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.14-06.05.18:440][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-06.05.18:475][803]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LEC10/GrannyAnimationBP] ([2] browsable assets)...
+[2025.04.14-06.05.18:482][803]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/LEC10/GrannyAnimationBP.GrannyAnimationBP]
+[2025.04.14-06.05.18:482][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/LEC10/GrannyAnimationBP]
+[2025.04.14-06.05.18:482][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEC10/GrannyAnimationBP" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/LEC10/GrannyAnimationBP.uasset" SILENT=true
+[2025.04.14-06.05.18:506][803]LogSavePackage: Moving output files for package: /Game/LEC10/GrannyAnimationBP
+[2025.04.14-06.05.18:507][803]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Saved/GrannyAnimationBPA0F81EE94663EAB743587A840CF9DEB9.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/LEC10/GrannyAnimationBP.uasset'
+[2025.04.14-06.05.18:517][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.447 ms (total: 2.58 sec)
+[2025.04.14-06.05.18:566][803]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-06.05.18:566][803]LogContentValidation: Enabled validators:
+[2025.04.14-06.05.18:566][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-06.05.18:566][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-06.05.18:566][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-06.05.18:566][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-06.05.18:566][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-06.05.18:566][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-06.05.18:567][803]AssetCheck: /Game/LEC10/GrannyAnimationBP Validating asset
+[2025.04.14-06.05.26:684][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.14-06.05.28:563][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-06.05.28:573][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-06.05.28:573][463]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.05.28:575][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002084s)
+[2025.04.14-06.05.28:575][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CharacterMap.CharacterMap to /Game/UEDPIE_0_CharacterMap.CharacterMap (0.002124s)
+[2025.04.14-06.05.28:595][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.14-06.05.28:596][463]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.14-06.05.28:597][463]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2025.04.14-06.05.28:598][463]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-06.05.28:598][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-06.05.28:598][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-06.05.28:598][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-06.05.28:598][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-06.05.28:598][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-06.05.28:599][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-06.05.28:628][463]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.14-06.05.28:628][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-06.05.28:628][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-06.05.28:628][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-06.05.28:629][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.04.14-06.05.28:629][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.04.14-06.05.28:631][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.04.14-06.05.28:631][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.04.14-06.05.28:631][463]LogInit: FAudioDevice initialized with ID 29.
+[2025.04.14-06.05.28:631][463]LogAudio: Display: Audio Device (ID: 29) registered with world 'CharacterMap'.
+[2025.04.14-06.05.28:631][463]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.04.14-06.05.28:633][463]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.14-06.05.28:634][463]LogWorld: Bringing World /Game/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.14-15.05.28
+[2025.04.14-06.05.28:634][463]LogWorld: Bringing up level for play took: 0.000694
+[2025.04.14-06.05.28:636][463]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.04.14-06.05.28:639][463]PIE: Server logged in
+[2025.04.14-06.05.28:640][463]PIE: Play in editor total start time 0.067 seconds.
+[2025.04.14-06.05.42:175][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.05.42:175][ 33]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.05.42:175][ 33]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-06.05.42:176][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.05.42:180][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-06.05.42:184][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.05.42:202][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.05.42:202][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.04.14-06.05.42:202][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.04.14-06.05.42:203][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.04.14-06.05.42:211][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.14-06.05.42:327][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.04.14-06.07.41:961][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.14-06.07.41:966][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-06.07.42:019][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/granny] ([2] browsable assets)...
+[2025.04.14-06.07.42:028][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/granny.granny]
+[2025.04.14-06.07.42:028][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/granny]
+[2025.04.14-06.07.42:028][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/granny" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/granny.uasset" SILENT=true
+[2025.04.14-06.07.42:037][955]LogSavePackage: Moving output files for package: /Game/granny
+[2025.04.14-06.07.42:057][955]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Saved/grannyEAEE87F0461023647EA2F5AC06A4A446.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/granny.uasset'
+[2025.04.14-06.07.42:065][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.568 ms (total: 2.68 sec)
+[2025.04.14-06.07.42:090][955]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-06.07.42:090][955]LogContentValidation: Enabled validators:
+[2025.04.14-06.07.42:091][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-06.07.42:091][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-06.07.42:091][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-06.07.42:091][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-06.07.42:091][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-06.07.42:091][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-06.07.42:091][955]AssetCheck: /Game/granny Validating asset
+[2025.04.14-06.07.46:857][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.14-06.07.46:862][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-06.07.46:917][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/granny] ([2] browsable assets)...
+[2025.04.14-06.07.46:917][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/granny]
+[2025.04.14-06.07.46:917][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/granny" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/granny.uasset" SILENT=true
+[2025.04.14-06.07.46:927][506]LogSavePackage: Moving output files for package: /Game/granny
+[2025.04.14-06.07.46:945][506]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Saved/grannyF0714945468C2A4FECBEAEA062A47418.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/granny.uasset'
+[2025.04.14-06.07.46:955][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.234 ms (total: 2.77 sec)
+[2025.04.14-06.07.47:006][506]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-06.07.47:006][506]LogContentValidation: Enabled validators:
+[2025.04.14-06.07.47:006][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-06.07.47:006][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-06.07.47:006][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-06.07.47:006][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-06.07.47:006][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-06.07.47:006][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-06.07.47:006][506]AssetCheck: /Game/granny Validating asset
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.14-06.07.47:558][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.14-06.07.47:559][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.14-06.07.47:589][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.14-06.07.49:028][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-06.07.49:036][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-06.07.49:036][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.07.49:039][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002386s)
+[2025.04.14-06.07.49:039][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CharacterMap.CharacterMap to /Game/UEDPIE_0_CharacterMap.CharacterMap (0.002434s)
+[2025.04.14-06.07.49:061][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.14-06.07.49:064][679]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.14-06.07.49:066][679]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2025.04.14-06.07.49:066][679]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.04.14-06.07.49:066][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-06.07.49:066][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-06.07.49:066][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-06.07.49:066][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-06.07.49:067][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-06.07.49:067][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-06.07.49:067][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-06.07.49:067][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-06.07.49:067][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-06.07.49:067][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-06.07.49:067][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-06.07.49:069][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-06.07.49:103][679]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.14-06.07.49:103][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-06.07.49:103][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-06.07.49:103][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-06.07.49:104][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.04.14-06.07.49:104][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.04.14-06.07.49:106][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.04.14-06.07.49:106][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.04.14-06.07.49:106][679]LogInit: FAudioDevice initialized with ID 30.
+[2025.04.14-06.07.49:106][679]LogAudio: Display: Audio Device (ID: 30) registered with world 'CharacterMap'.
+[2025.04.14-06.07.49:107][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.04.14-06.07.49:109][679]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.14-06.07.49:110][679]LogWorld: Bringing World /Game/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.14-15.07.49
+[2025.04.14-06.07.49:110][679]LogWorld: Bringing up level for play took: 0.000706
+[2025.04.14-06.07.49:113][679]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.04.14-06.07.49:116][679]PIE: Server logged in
+[2025.04.14-06.07.49:117][679]PIE: Play in editor total start time 0.081 seconds.
+[2025.04.14-06.08.04:679][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.08.04:680][496]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.08.04:680][496]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-06.08.04:680][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.08.04:684][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-06.08.04:689][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.08.04:706][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.14-06.08.04:706][496]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.04.14-06.08.04:707][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.04.14-06.08.04:709][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.04.14-06.08.04:715][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.08.04:718][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.04.14-06.08.04:856][497]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.04.14-06.08.10:169][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.14-06.08.10:173][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.14-06.08.10:228][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/granny] ([2] browsable assets)...
+[2025.04.14-06.08.10:234][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/granny.granny]
+[2025.04.14-06.08.10:234][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/granny]
+[2025.04.14-06.08.10:234][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/granny" FILE="../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/granny.uasset" SILENT=true
+[2025.04.14-06.08.10:244][983]LogSavePackage: Moving output files for package: /Game/granny
+[2025.04.14-06.08.10:245][983]LogSavePackage: Moving '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Saved/granny53D165154C9F082C121A3A97B601D057.tmp' to '../../../../../../Users/user/Desktop/ysys/ENGINE01/LAB1/LEC09/Content/granny.uasset'
+[2025.04.14-06.08.10:253][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.352 ms (total: 2.85 sec)
+[2025.04.14-06.08.10:302][983]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.14-06.08.10:303][983]LogContentValidation: Enabled validators:
+[2025.04.14-06.08.10:303][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.14-06.08.10:303][983]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.14-06.08.10:303][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.14-06.08.10:303][983]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.14-06.08.10:303][983]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.14-06.08.10:303][983]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.14-06.08.10:303][983]AssetCheck: /Game/granny Validating asset
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.14-06.08.11:141][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.14-06.08.11:143][ 78]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.14-06.08.11:173][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.14-06.08.12:174][140]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-06.08.12:183][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-06.08.12:183][140]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.08.12:186][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2025.04.14-06.08.12:186][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CharacterMap.CharacterMap to /Game/UEDPIE_0_CharacterMap.CharacterMap (0.002246s)
+[2025.04.14-06.08.12:206][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.14-06.08.12:209][140]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.14-06.08.12:211][140]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2025.04.14-06.08.12:211][140]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-06.08.12:211][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-06.08.12:211][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-06.08.12:211][140]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-06.08.12:211][140]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-06.08.12:211][140]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-06.08.12:213][140]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-06.08.12:244][140]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.14-06.08.12:245][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-06.08.12:245][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-06.08.12:245][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-06.08.12:245][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.04.14-06.08.12:245][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.04.14-06.08.12:248][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.04.14-06.08.12:248][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.04.14-06.08.12:248][140]LogInit: FAudioDevice initialized with ID 31.
+[2025.04.14-06.08.12:248][140]LogAudio: Display: Audio Device (ID: 31) registered with world 'CharacterMap'.
+[2025.04.14-06.08.12:248][140]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.04.14-06.08.12:251][140]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.14-06.08.12:251][140]LogWorld: Bringing World /Game/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.14-15.08.12
+[2025.04.14-06.08.12:251][140]LogWorld: Bringing up level for play took: 0.000687
+[2025.04.14-06.08.12:253][140]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.04.14-06.08.12:256][140]PIE: Server logged in
+[2025.04.14-06.08.12:256][140]PIE: Play in editor total start time 0.074 seconds.
+[2025.04.14-06.08.14:850][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.08.14:850][435]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.08.14:851][435]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-06.08.14:851][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.08.14:856][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-06.08.14:860][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.08.14:879][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.14-06.08.14:879][435]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.04.14-06.08.14:879][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.04.14-06.08.14:882][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.04.14-06.08.14:887][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.08.14:890][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.14-06.08.15:004][436]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.14-06.08.50:813][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Visor1' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Whistle0' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'Hood0' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.04.14-06.08.50:814][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: granny_C_0 /Engine/Transient.World_9:PersistentLevel.granny_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.04.14-06.08.50:844][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.14-06.08.51:799][377]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.14-06.08.51:808][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.14-06.08.51:808][377]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.08.51:810][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002195s)
+[2025.04.14-06.08.51:810][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CharacterMap.CharacterMap to /Game/UEDPIE_0_CharacterMap.CharacterMap (0.002237s)
+[2025.04.14-06.08.51:830][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.04.14-06.08.51:833][377]LogChaosDD: Creating Chaos Debug Draw Scene for world CharacterMap
+[2025.04.14-06.08.51:834][377]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2025.04.14-06.08.51:834][377]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.14-06.08.51:834][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.14-06.08.51:834][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.14-06.08.51:834][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.14-06.08.51:834][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.14-06.08.51:834][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.14-06.08.51:836][377]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.14-06.08.51:865][377]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2025.04.14-06.08.51:865][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.14-06.08.51:865][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.14-06.08.51:865][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.14-06.08.51:867][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.04.14-06.08.51:867][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.04.14-06.08.51:869][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.04.14-06.08.51:869][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.04.14-06.08.51:869][377]LogInit: FAudioDevice initialized with ID 32.
+[2025.04.14-06.08.51:869][377]LogAudio: Display: Audio Device (ID: 32) registered with world 'CharacterMap'.
+[2025.04.14-06.08.51:869][377]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.04.14-06.08.51:871][377]LogLoad: Game class is 'GrannyGameMode_C'
+[2025.04.14-06.08.51:872][377]LogWorld: Bringing World /Game/UEDPIE_0_CharacterMap.CharacterMap up for play (max tick rate 0) at 2025.04.14-15.08.51
+[2025.04.14-06.08.51:872][377]LogWorld: Bringing up level for play took: 0.000676
+[2025.04.14-06.08.51:874][377]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.04.14-06.08.51:877][377]PIE: Server logged in
+[2025.04.14-06.08.51:878][377]PIE: Play in editor total start time 0.07 seconds.
+[2025.04.14-06.08.59:428][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.08.59:428][265]LogWorld: BeginTearingDown for /Game/UEDPIE_0_CharacterMap
+[2025.04.14-06.08.59:429][265]LogWorld: UWorld::CleanupWorld for CharacterMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.14-06.08.59:429][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.08.59:435][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.14-06.08.59:440][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.14-06.08.59:460][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.14-06.08.59:460][265]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.04.14-06.08.59:462][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.04.14-06.08.59:463][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.04.14-06.08.59:468][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.14-06.08.59:470][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.14-06.08.59:586][266]LogPlayLevel: Display: Destroying online subsystem :Context_62
